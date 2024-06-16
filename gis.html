@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GIS</title>
+    <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/tiledwebmap.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/offline-exporting.js"></script>
+    <script src="https://code.highcharts.com/maps/modules/accessibility.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../style/dabel_textsegment.css"/>
+    <script src="javachart/code/highcharts.js"></script>
+    <script src="javachart/code/modules/exporting.js"></script>
+    <script src="javachart/code/modules/export-data.js"></script>
+    <script src="javachart/code/modules/accessibility.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="../style/dabel_textsegment.css"/>
+    <link rel="icon" sizes="32x32" href="../img/favicon.ico">
+</head>
+<body>
+
+<style type="text/css">
+.highcharts-figure, .highcharts-data-table table {
+    min-width: 320px; 
+    max-width: 100%;
+    margin: 1em left;
+}
+
+#container {
+    height: 400px;
+}
+
+.highcharts-data-table table {
+font-family: Verdana, sans-serif;
+border-collapse: collapse;
+border: 1px solid #EBEBEB;
+margin: 10px auto;
+text-align: center;
+width: 100%;
+max-width: 500px;
+}
+.highcharts-data-table caption {
+    padding: 1em 0;
+    font-size: 1.2em;
+    color: #555;
+}
+.highcharts-data-table th {
+font-weight: 600;
+    padding: 0.5em;
+}
+.highcharts-data-table td, .highcharts-data-table th, .highcharts-data-table caption {
+    padding: 0.5em;
+}
+.highcharts-data-table thead tr, .highcharts-data-table tr:nth-child(even) {
+    background: #f8f8f8;
+}
+.highcharts-data-table tr:hover {
+    background: #f1f7ff;
+}
+
+</style> 
+<link rel="stylesheet" href="../style/news.css" />
+<script src="../js/date.js"></script> 
+</head>
+
+<body onload="loadTime();">
+
+<div class="frame">
+    <h1 style="margin-top: 1.5rem">GIS</h1>
+    </div>
+
+<p style="width: 100%; text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">In the map (Open Street Map), the coordinates (longitude and latitude) are used to enter the toponyms that appear in each prose. A distinction is made between places that still exist and places that have disappeared.</p>
+<br><br>
+
+
+<link rel="stylesheet" href="../style/style.css">
+
+<select style="margin-top: 30px;" onchange="showGraph()" id="cluster">
+    <option>-- select --</option>
+    <option value="dabel">Ďábel na skřipci</option>
+    <option value="elegie" disabled value>Elegie o černých očích</option>
+    <option value="xaverius">Svatý Xaverius</opiton>
+    <option value="demon">Sivooký démon</option>
+    <option value="madona">Zázračná madona</option>
+    <option value="ukrizovana">Ukřižovaná</option>
+    <option value="mozek">Newtonův mozek</option>
+    <option value="akrobati">Akrobati</option>
+    <option value="etiopskalilie">Etiopská lilie</option>
+    <option value="silenyjob">Šílený Job</option>
+    <option value="mujpritelvrah">Můj přítel vrah</option>
+    <option value="asponsepousmej">Aspoň se pousměj</option>
+    <option value="dvabarikadnici">Dva barikádníci</option>
+    <option value="prvninocumrtvoly">První noc u mrtvoly</option>
+    <option value="ildivinoboemo">Il divino Boemo</option>
+    <option value="annaamarie">Anna a Marie</option>
+    <option value="vymirajicihrbitov">Vymírající hřbitov</option>
+    <option value="kandidatiexistence">Kandidáti existence</option>
+    <option value="zborceneharfyton">Zborcené harfy tón</option>
+    <option value="adamite">Adamité</option>
+    <option value="agitator">Agitátor</option>
+  </select>
+
+<div id="gis"></div>
+
+<script src="../js/arbes_gis.js"></script>
+
+<div style="clear:both;"></div>
+<br><br>
+<hr>
+
+<p style="color: grey;">last update: <span id='demo'></span></p>
+<br>
+
+</body>
+</html>
