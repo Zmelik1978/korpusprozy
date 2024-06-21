@@ -111,7 +111,20 @@ function showGraph(){
                 {name: ' parní lázně na Smíchově, dnes je v těchto místech autobusové nádraží Na Knížecí (1873) © Plán kr. hl. mětsa s vůkolím do F. Kořistky', lon: 14.4046172, lat: 50.0686469, image: "../foto_praha/parnilazne.jpg"},
                 {name: ' U Arcivévody Štěpána, dříve hostinec, dnes Štefánikova © II. vojenské mapování (1836–1852)', lon: 14.4035631, lat: 50.0743000, image: "../foto_praha/uarcivevodystepana.jpg"},
             ]},
-            ]});            
+            ]});    
+            break;
+            case "ukrizovana":
+                Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                    // existující místa
+                    {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                        {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
+                    // neexistující místa
+                    ]},
+                    {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                        {name: 'místo', lon: 14.4068219, lat: 50.0775161, image: "../foto_praha/foto.jpg"}, 
+                    ]},
+                    ]});    
+                    break;                      
         default:
             document.getElementById("gis").src = "";
     }
