@@ -1,0 +1,1 @@
+V této sloužce jsou uložené TXT formáty vygenerované pomocí NameTag (https://lindat.cz/services/nametag/)

@@ -1,0 +1,1 @@
+V této složce jsou uloženy xlsx soubory s pražskými toponymy a souřadnicemi.
