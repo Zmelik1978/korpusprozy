@@ -43,8 +43,24 @@ for a, b in df. iterrows():
         names.append(b["Entity Text"])
     else:
         pass
+    if a == "if":
+        names.append(b["Entity Text"])
+    else:
+        pass
+    if a == "ic":
+        names.append(b["Entity Text"])
+    else:
+        pass
+    if a == "i_":
+        names.append(b["Entity Text"])
+    else:
+        pass
+    if a == "io":
+        names.append(b["Entity Text"])
+    else:
+        pass
 
-# nadefinujeme prázdné slopupce jako nu¨lu
+# nadefinujeme prázdné slopupce jako nulu
 for i in range(len(names)):
     long.append(0)
     lat.append(0)
