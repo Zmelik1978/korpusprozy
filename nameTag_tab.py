@@ -1,9 +1,10 @@
 import pandas as pd
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 import re
+from termcolor import colored
 
 # zadání vstupu
-zadej = input("Zadej název xlsx: ")
+zadej = input(colored("Zadej název xlsx: "), "blue")
 
 # zde nutno zadat správnou cestu na Desktop
 file = f"C:/Users/Richard Změlík/Desktop/{zadej}.xlsx"
@@ -60,3 +61,5 @@ df_to_save_index = df_to_save.set_index('')
 
 # zxde nutno zadat správnou cestu na output
 df_to_save_index.to_excel(f"C:/Users/Richard Změlík/Desktop/{zadej}-GIS.xlsx")
+
+print(colored("Tabulka uložena na plochu.", "green"))
