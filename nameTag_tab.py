@@ -76,6 +76,6 @@ df_to_save = pd.DataFrame(data)
 df_to_save_index = df_to_save.set_index('')
 
 # zxde nutno zadat správnou cestu na output
-df_to_save_index.to_excel(f"C:/Users/Richard Změlík/Desktop/{zadej}-GIS.xlsx")
+df_to_save_index.to_excel(f"C:/Users/Richard Změlík/Desktop/{zadej}_toponyms.xlsx")
 
 print(colored("Tabulka uložena na plochu.", "green"))
