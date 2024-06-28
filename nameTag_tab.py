@@ -4,7 +4,7 @@ import re
 from termcolor import colored
 
 # zadání vstupu
-zadej = input(colored("Zadej název xlsx: "), "blue")
+zadej = input(colored("Zadej název xlsx: ", "blue"))
 
 # zde nutno zadat správnou cestu na Desktop
 file = f"C:/Users/Richard Změlík/Desktop/{zadej}.xlsx"
