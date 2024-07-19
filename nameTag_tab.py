@@ -7,7 +7,7 @@ from termcolor import colored
 zadej = input(colored("Zadej název xlsx: ", "blue"))
 
 # zde nutno zadat správnou cestu na Desktop
-file = f"C:/Users/User/Desktop/{zadej}.xlsx"
+file = f"C:/Users/richa/Desktop/{zadej}.xlsx"
 table = pd.read_excel(file)
 
 # definujeme sloupce jako index 
@@ -59,6 +59,10 @@ for a, b in df. iterrows():
         names.append(b["Entity Text"])
     else:
         pass
+    if a == "gu":
+        names.append(b["Entity Text"])
+    else:
+        pass
 
 # nadefinujeme prázdné slopupce jako nulu
 for i in range(len(names)):
@@ -76,6 +80,6 @@ df_to_save = pd.DataFrame(data)
 df_to_save_index = df_to_save.set_index('')
 
 # zxde nutno zadat správnou cestu na output
-df_to_save_index.to_excel(f"C:/Users/User/Desktop/{zadej}_toponyms.xlsx")
+df_to_save_index.to_excel(f"C:/Users/richa/Desktop/{zadej}-GIS.xlsx")
 
 print(colored("Tabulka uložena na plochu.", "green"))
