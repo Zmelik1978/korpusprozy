@@ -122,12 +122,12 @@ function showGraph(){
                     {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
                     {name: 'Kampa (1870) © Zmizelá Praha, sv. 5, 1919', lon: 14.4079667, lat:  50.0845494, image: "../foto_praha/kampa.jpg"},
                     {name: 'Řetězový most (1914) © Zmizelá Praha, sv. 7, 1919', lon: 14.4108800, lat: 50.0813536, image: "../foto_praha/retezovymost.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
+                    {name: 'Nové Město, Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
+                    {name: 'Střelecký ostrov (rytina Johannese Wechtera z roku 1606) © ČTK', lon: 14.4099675, lat: 50.0814239, image: "../foto_praha/streleckyostrov.jpg"},
+                    {name: 'Staré Prádlo, nynější Městský dům Prádlo, Na Muráni © Michal Kmínek, Wikimedia Commons', lon: 14.4139111, lat: 50.0875847, image: "../foto_praha/Storzer_Městský_dům_Prádlo,_Na_Muráni_(Staré_Město),_Praha_1,_Alšovo_nábř._2,_Staré_Město.jpg"},
+                    {name: 'Sovovy mlýny, přelom 19. a 20. století © Muzeum Kampa', lon: 14.40820789955488, lat: 50.083764450000004, image: "../foto_praha/Storzer_Mlyny_archivni-1024x490.jpg"},
+                    {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/stafremesto.jpg"},
+                    {name: 'Łysa Góra © Janusz Krzyżek, Wikimedia Commons', lon: 20.7350314, lat: 49.9336125, image: "../foto_praha/Storzer_Łysa_Góra_gmina_Dębno_kościół_front.jpg"},
                     {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
                     {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
                     {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
@@ -137,7 +137,8 @@ function showGraph(){
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
-                    {name: 'místo', lon: 14.4068219, lat: 50.0775161, image: "../foto_praha/foto.jpg"}, 
+                    {name: 'místo', lon: 14.4068219, lat: 50.0775161, image: "../foto_praha/foto.jpg"},
+                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"}, 
                 ]},
                 ]});    
                 break;     
