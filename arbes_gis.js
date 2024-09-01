@@ -128,17 +128,18 @@ function showGraph(){
                     {name: 'Sovovy mlýny, přelom 19. a 20. století © Muzeum Kampa', lon: 14.40820789955488, lat: 50.083764450000004, image: "../foto_praha/Storzer_Mlyny_archivni-1024x490.jpg"},
                     {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/stafremesto.jpg"},
                     {name: 'Łysa Góra © Janusz Krzyżek, Wikimedia Commons', lon: 20.7350314, lat: 49.9336125, image: "../foto_praha/Storzer_Łysa_Góra_gmina_Dębno_kościół_front.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
-                    {name: 'misto', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/fotka.jpg"},
+                    {name: 'Maltézské náměstí (80. léta 19. stol.) © V. Jansa', lon:  14.405305340227313 , lat:  50.0859235, image: "../foto_praha/maltezskenamesti.jpg" },
+                    {name: 'Nosticův palác (19. stol.) © V. Morstadt', lon:  14.40561579974976 , lat:  50.08522875, image: "../foto_praha/nosticuvpalac.jpg" },
+                    {name: 'Tarnov (19. stol.) © Facebook Tarnów - ciekawostki, tajemnice, stare zdjęcia', lon: 20.96405842696229, lat: 50.025988299999995, image: "../foto_praha/Storzer_Tarnow.jpg"},
+                    {name: 'Mariánské hradby, nyní ul. Mariánské hradby (1870) © Wikipedie', lon: 14.4028517, lat:  50.0938675, image: "../foto_praha/marianskehradby.jpg"},
+                    {name: 'Nový Svět (1897) © V. Jansa', lon: 14.3913964, lat: 50.0909353, image: "../foto_praha/novysvet.jpg"},
+                    {name: 'Černínský palác © Jaroslav Kučera', lon: 14.390113920556605, lat: 50.08875705, image: "../foto_praha/Storzer_Černínský palác.jpg"},
+                    {name: 'Loretánské náměstí © Kudy z nudy', lon: 14.391220520837996, lat: 50.089355, image: "../foto_praha/Storzer_Loretánské náměstí.jpg"},
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
-                    {name: 'místo', lon: 14.4068219, lat: 50.0775161, image: "../foto_praha/foto.jpg"},
-                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"}, 
+                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Strahovská brána', lon: 14.3885875, lat: 50.0911817, image: "../foto_praha/strahovskabrana.png"},
                 ]},
                 ]});    
                 break;     
