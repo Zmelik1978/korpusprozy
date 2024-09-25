@@ -154,7 +154,41 @@ function showGraph(){
                     {name: 'místo', lon: 14.4068219, lat: 50.0775161, image: "../foto_praha/foto.jpg"}, 
                 ]},
                 ]});    
-                break;                         
+                break;
+        case "akrobati":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Česká Lípa © VitVit, Wikimedia Commons', lon: 14.5372974, lat: 50.6865452, image: "../foto_praha/Storzer_CLipa.jpg"},
+                    {name: 'Šluknov © VitVit, Wikimedia Commons', lon: 14.4530321, lat: 51.003217, image: "../foto_praha/Storzer_Sluknov.jpg"},
+                    {name: 'Rumburk © Rostislav Křivánek', lon: 14.5569317, lat: 50.9517739, image: "../foto_praha/Storzer_rumburk.jpg"},
+                    {name: 'Bakov nad Jizerou © Facebook Město Bakov nad Jizerou', lon: 14.9388306, lat: 50.4801187, image: "../foto_praha/Storzer_bakov.jpg"},
+                    {name: 'Varnsdorf © České Švýcarsko', lon: 14.6194058, lat: 50.9124244, image: "../foto_praha/Storzer_varnsdorf.jpg"},
+                    {name: 'Hradčany (60. léta 19. stol.) © Zmizelá Praha, sv. 7, 1919', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/hradcany.jpg"},
+                    {name: 'Belvedere ve Vídni © Burben, Shutterstock ', lon: 16.380888223299927, lat: 48.1915415, image: "../foto_praha/Storzer_belvedere.jpg"},
+                    {name: 'Příkopy, dnes Na Příkopě (pohlednice z 19. století) © Stará Praha', lon: 14.426636, lat: 50.0861456, image: "../foto_praha/Storzer_prikopy"},
+                    {name: 'Vídeň © ÖJAB', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/wien.png"},
+                    {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
+                    {name: 'Žofín, dnes Slovanský ostrov © Copyright Agentura NKL', lon: 14.41303058156899, lat: 50.0784525, image: "../foto_praha/Storzer_zofinskyo.jpg"},
+                    {name: 'Vltava ', lon:  14.4109975, lat:  50.0840539, image: "../foto_praha/vltava.jpg"},
+                    {name: 'Paříž na konci 19. století (autorem obrazu je Camille Pissarro)', lon: 2.3483915, lat: 48.8534951, image: "../foto_praha/Storzer_pariz.jpg"},
+                    {name: 'Londýn (19. století) © London Stereoscopic Company, Getty Images', lon: -0.1277653, lat: 51.5074456, image: "../foto_praha/Storzer_london.jpg"},
+                    {name: 'Drury-Lane (původní skica z roku 1840 "The Cock and Magpie")', lon: -0.1226154, lat: 51.5149787, image: "../foto_praha/storzer_drurylane.jpg"},
+                    {name: 'Václavské náměstí (pohlednice z přelomu 19. a 20. století) © Stará Praha', lon: 14.427170364227162, lat: 50.0815867, image: "../foto_praha/Storzer_vaclavak.jpg"},
+                    {name: 'Řezno, německy Regensburg (1905) © Detroit Photographic Company', lon: 12.0974869, lat: 49.0195333, image: "../foto_praha/Storzer_rezno.jpg"},
+                    {name: 'Plzeň (obraz z 19. století)', lon: 13.3775249, lat: 49.7477415, image: "../foto_praha/Storzer_plzen.jpg"},
+                    {name: 'Domažlice © Vlastimil, Výletník.cz', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Brod nad Lesy, německy Furth im Wald © Andi-Furth, Wikimedia Commons', lon: 12.8452826, lat: 49.3081639, image: "../foto_praha/Storzer_furth.jpg"},
+                    {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
+                    {name: 'Rokycany © Město Rokycany', lon: 13.594778, lat: 49.7428813, image: "../foto_praha/Storzer_rokycany.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Kulturní dům Colosseum', lon: 14.6184722, lat: 50.9123611, image: "../foto_praha/Storzer_colosseum.jpg"},
+                    {name: 'Carlovo divadlo, německy Carltheater (pohled z roku 1850) © Wien Geschichte Wiki', lon: 16.3844, lat: 48.215, image: "../foto_praha/Storzer_carltheater.jpg"}, 
+                ]},
+                ]});    
+                break;                        
         default:
             document.getElementById("gis").src = "";
     }
