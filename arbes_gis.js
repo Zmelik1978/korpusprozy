@@ -188,6 +188,40 @@ function showGraph(){
                     {name: 'Carlovo divadlo, německy Carltheater (pohled z roku 1850) © Wien Geschichte Wiki', lon: 16.3844, lat: 48.215, image: "../foto_praha/Storzer_carltheater.jpg"}, 
                 ]},
                 ]});    
+                break;
+        case "lilie":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Kartouzská věznice © Vězeňská služba České republiky', lon: 15.3896331, lat: 50.4553472, image: "../foto_praha/storzer_kartouzy.jpg"},
+                    {name: 'Mincio © Altomincio', lon: 11.929392, lat: 44.3129773, image: "../foto_praha/Storzer_mincio.jpg"},
+                    {name: 'Probluz, pohled na místní kostel © Petr1888, Wikimedia Commons', lon: 15.7153547, lat: 50.2443953, image: "../foto_praha/Storzer_probluz.jpg"},
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Ostruhová ul., nyní Nerudova (19. stol.) © V. Jansa', lon: 14.3995256, lat: 50.0885142, image: "../foto_praha/ostruhova.jpg"},
+                    {name: 'Hřebenky, fotografie z první poloviny 20. stol. © Janatkovi (archiv)', lon: 14.9388306, lat: 50.0735762, image: "../foto_praha/Storzer_kosire.jpg"},
+                    {name: 'Košíře (1920) © Augustin Kočí', lon: 14.362062, lat: 50.0670831, image: "../foto_praha/Storzer_kosire.jpg"},
+                    {name: 'Smíchov © ', lon: 14.4048437, lat: 50.0749464, image: "../foto_praha/Storzer_hrebenky.jpg"},
+                    {name: 'Zahrada Kinských © ', lon: 14.394575659913496, lat: 50.07847295, image: "../foto_praha/Storzer_belvedere.jpg"},
+                    {name: 'Mrázovka © ', lon: 14.397979991694232, lat: 50.06983235, image: "../foto_praha/Storzer_prikopy"},
+                    {name: 'Drážďany © ', lon: 13.7381437, lat: 51.0493286, image: "../foto_praha/wien.png"},
+                    {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
+                    {name: 'Teplice © ', lon: 13.8244461, lat: 50.6406644, image: "../foto_praha/Storzer_zofinskyo.jpg"},
+                    {name: 'Nollendorf (česky Nakléřov) ', lon:  13.9768114, lat:  50.7451636, image: "../foto_praha/vltava.jpg"},
+                    {name: 'Arbesau (česky Varvažov)', lon: 13.9644126, lat: 50.7232687, image: "../foto_praha/Storzer_pariz.jpg"},
+                    {name: 'Ústí nad Labem © ', lon: 14.0381357, lat: 50.6603327, image: "../foto_praha/Storzer_london.jpg"},
+                    {name: 'Chlum', lon: 15.7476958, lat: 50.2774267, image: "../foto_praha/storzer_drurylane.jpg"},
+                    {name: 'Slaný © ', lon: 14.0868501, lat: 50.2306933, image: "../foto_praha/Storzer_vaclavak.jpg"},
+                    {name: 'Středokluky © ', lon: 14.2341922, lat: 50.1321835, image: "../foto_praha/Storzer_rezno.jpg"},
+                    {name: 'Ruzyně', lon: 14.3028035, lat: 50.0915435, image: "../foto_praha/Storzer_plzen.jpg"},
+                    {name: 'Karlovy Vary © ', lon: 12.8701437, lat: 50.2306216, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Rio de Janeiro © ', lon: -43.2093727, lat: -22.9110137, image: "../foto_praha/Storzer_furth.jpg"},
+                    {name: 'Marseille © ', lon: 5.3699525, lat: 43.2961743, image: "../foto_praha/Storzer_beroun.jpg"},
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Strahovská brána', lon: 14.3885875, lat: 50.0911817, image: "../foto_praha/strahovskabrana.png"}, 
+                ]},
+                ]});    
                 break;                        
         default:
             document.getElementById("gis").src = "";
