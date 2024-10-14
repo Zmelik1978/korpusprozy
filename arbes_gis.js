@@ -167,7 +167,7 @@ function showGraph(){
                     {name: 'Hradčany (60. léta 19. stol.) © Zmizelá Praha, sv. 7, 1919', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/hradcany.jpg"},
                     {name: 'Belvedere ve Vídni © Burben, Shutterstock ', lon: 16.380888223299927, lat: 48.1915415, image: "../foto_praha/Storzer_belvedere.jpg"},
                     {name: 'Příkopy, dnes Na Příkopě (pohlednice z 19. století) © Stará Praha', lon: 14.426636, lat: 50.0861456, image: "../foto_praha/Storzer_prikopy"},
-                    {name: 'Vídeň © ÖJAB', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/wien.png"},
+                    {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
                     {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
                     {name: 'Žofín, dnes Slovanský ostrov © Copyright Agentura NKL', lon: 14.41303058156899, lat: 50.0784525, image: "../foto_praha/Storzer_zofinskyo.jpg"},
                     {name: 'Vltava ', lon:  14.4109975, lat:  50.0840539, image: "../foto_praha/vltava.jpg"},
@@ -201,7 +201,7 @@ function showGraph(){
                     {name: 'Hřebenky, fotografie z první poloviny 20. stol. © Janatkovi (archiv)', lon: 14.9388306, lat: 50.0735762, image: "../foto_praha/Storzer_kosire.jpg"},
                     {name: 'Košíře (1920) © Augustin Kočí', lon: 14.362062, lat: 50.0670831, image: "../foto_praha/Storzer_kosire.jpg"},
                     {name: 'Smíchov, přelom 19. a 20. století © Paměť města', lon: 14.4048437, lat: 50.0749464, image: "../foto_praha/storzer_smichov.jpg"},
-                    {name: 'Zahrada Kinských © ', lon: 14.394575659913496, lat: 50.07847295, image: "../foto_praha/storzer_kinsky.jpg"},
+                    {name: 'Zahrada Kinských © Kudy z Nudy ', lon: 14.394575659913496, lat: 50.07847295, image: "../foto_praha/storzer_kinsky.jpg"},
                     {name: 'Mrázovka © Městská část Praha 5', lon: 14.397979991694232, lat: 50.06983235, image: "../foto_praha/Storzer_mrazovka"},
                     {name: 'Drážďany, konec 19. století © Monovisions', lon: 13.7381437, lat: 51.0493286, image: "../foto_praha/Storzer_dresden"},
                     {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
@@ -220,6 +220,31 @@ function showGraph(){
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
                     {name: 'Strahovská brána', lon: 14.3885875, lat: 50.0911817, image: "../foto_praha/strahovskabrana.png"}, 
+                ]},
+                ]});    
+                break;
+        case "job":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
+                    {name: 'Hřebenky, fotografie z první poloviny 20. stol. © Janatkovi (archiv)', lon: 14.9388306, lat: 50.0735762, image: "../foto_praha/Storzer_kosire.jpg"},
+                    {name: 'Zahrada Kinských © Kudy z Nudy ', lon: 14.394575659913496, lat: 50.07847295, image: "../foto_praha/storzer_kinsky.jpg"},
+                    {name: 'Újezd (1891) © Světozor', lon: 14.4045214, lat: 50.0821956, image: "../foto_praha/ujezd.jpg"},
+                    {name: 'Slaný, historická pohlednice', lon: 14.0868501, lat: 50.2306933, image: "../foto_praha/Storzer_slany.jpg"},
+                    {name: 'Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
+                    {name: 'Vyšehrad s kostelem (1872) © Zmizelá Praha, sv. 4, 1919', lon: 14.4178128,lat: 50.0643569, image: "../foto_praha/vysehradskykostel.jpg"},
+                    {name: 'Domažlice © Vlastimil, Výletník.cz', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Nové Město, Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
+                    {name: 'Monte Cassino © Creative Commons Attribution-Share Alike 3.0 ', lon: 13.813755546570292, lat: 41.49088145, image: "../foto_praha/storzer_cassino.jpg"},
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Vrabcovna', lon: 14.398683600716364, lat: 50.07692075, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Plátenice', lon: 14.3889201, lat: 50.0765787, image: "../foto_praha/ujezd_brana.jpg"},
                 ]},
                 ]});    
                 break;                        
