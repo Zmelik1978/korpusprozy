@@ -153,7 +153,9 @@ function showGraph(){
                     {name: ' Staroměstská radnice (19. stol.) © V. Jansa', lon:  14.4205922, lat:  50.0872056, image: "../foto_praha/staromestskaradnice.jpg"},
                     {name: 'Bílá hora © II. vojenské mapování (1836–1852)', lon:  14.3190683, lat: 50.0782264, image: "../foto_praha/bilahora.jpg"},
                     {name: 'Vyšehrad s kostelem (1872) © Zmizelá Praha, sv. 4, 1919', lon: 14.4178128,lat: 50.0643569, image: "../foto_praha/vysehradskykostel.jpg"},
+                    {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
                     {name: 'Domažlice © Vlastimil, Výletník.cz', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Paříž na konci 19. století (autorem obrazu je Camille Pissarro)', lon: 2.3483915, lat: 48.8534951, image: "../foto_praha/Storzer_pariz.jpg"},
                     {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
                 // neexistující místa
                 ]},
