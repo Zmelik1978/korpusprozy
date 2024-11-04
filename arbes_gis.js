@@ -150,13 +150,22 @@ function showGraph(){
                     {name: 'Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
                     {name: 'Probluz, pohled na místní kostel © Petr1888, Wikimedia Commons', lon: 15.7153547, lat: 50.2443953, image: "../foto_praha/Storzer_probluz.jpg"},
                     {name: 'Hradčany (60. léta 19. stol.) © Zmizelá Praha, sv. 7, 1919', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/hradcany.jpg"},
-                    {name: ' Staroměstská radnice (19. stol.) © V. Jansa', lon:  14.4205922, lat:  50.0872056, image: "../foto_praha/staromestskaradnice.jpg"},
+                    {name: 'Staroměstská radnice (19. stol.) © V. Jansa', lon:  14.4205922, lat:  50.0872056, image: "../foto_praha/staromestskaradnice.jpg"},
                     {name: 'Bílá hora © II. vojenské mapování (1836–1852)', lon:  14.3190683, lat: 50.0782264, image: "../foto_praha/bilahora.jpg"},
                     {name: 'Vyšehrad s kostelem (1872) © Zmizelá Praha, sv. 4, 1919', lon: 14.4178128,lat: 50.0643569, image: "../foto_praha/vysehradskykostel.jpg"},
                     {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
                     {name: 'Domažlice © Vlastimil, Výletník.cz', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
                     {name: 'Paříž na konci 19. století (autorem obrazu je Camille Pissarro)', lon: 2.3483915, lat: 48.8534951, image: "../foto_praha/Storzer_pariz.jpg"},
+                    {name: 'Štrasburg koncem 19. století', lon:  7.7507127 , lat:  48.584614, image: "../foto_praha/storzer_strasburg.jpg"},
+                    {name: 'Norimberk koncem 19. století © Detroit Publishing & Co.', lon:  11.077298 , lat:  49.453872, image: "../foto_praha/storzer_norimberk.jpg"},
+                    {name: 'Terst (oceloryt z poloviny 19. století)', lon:  13.7772781 , lat:  45.6496483, image: "../foto_praha/storzer_terst.jpg"},
+                    {name: 'Budapešť © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon:  19.0529844 , lat:  47.4942217, image: "../foto_praha/storzer_budapest.jpg"},
+                    {name: 'Nechanice (na fotografii místní novogotický zámek) © Česká obec', lon:  15.6327598 , lat:  50.2373686, image: "../foto_praha/storzer_nechanice.jpg"},
+                    {name: 'Kolín ve 40. letech 19. století (doobvá rytina) © Beschreibende und malerische Darstellung der K. K. österreichischen Staatseisenbahn von Olmütz bis Prag / Verfasst von L. Förster und A. Demarteau', lon:  15.2011571 , lat:  50.0288894, image: "../foto_praha/storzer_kolin.jpg"},
+                    {name: 'Jičín © Město Jičín', lon:  15.3516528 , lat:  50.4370452, image: "../foto_praha/storzer_jiicn.jpg"},
                     {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Smiřice (pohled na místní zámek s kaplí) © Robert Andrýs', lon:  15.8645911, lat:  50.2995707, image: "../foto_praha/storzer_smirice.jpg"},
+                    
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
