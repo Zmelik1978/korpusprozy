@@ -161,10 +161,17 @@ function showGraph(){
                     {name: 'Terst (oceloryt z poloviny 19. století)', lon:  13.7772781 , lat:  45.6496483, image: "../foto_praha/storzer_terst.jpg"},
                     {name: 'Budapešť © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon:  19.0529844 , lat:  47.4942217, image: "../foto_praha/storzer_budapest.jpg"},
                     {name: 'Nechanice (na fotografii místní novogotický zámek) © Česká obec', lon:  15.6327598 , lat:  50.2373686, image: "../foto_praha/storzer_nechanice.jpg"},
-                    {name: 'Kolín ve 40. letech 19. století (doobvá rytina) © Beschreibende und malerische Darstellung der K. K. österreichischen Staatseisenbahn von Olmütz bis Prag / Verfasst von L. Förster und A. Demarteau', lon:  15.2011571 , lat:  50.0288894, image: "../foto_praha/storzer_kolin.jpg"},
+                    {name: 'Kolín ve 40. letech 19. století (dobová rytina) © Beschreibende und malerische Darstellung der K. K. österreichischen Staatseisenbahn von Olmütz bis Prag / Verfasst von L. Förster und A. Demarteau', lon:  15.2011571 , lat:  50.0288894, image: "../foto_praha/storzer_kolin.jpg"},
                     {name: 'Jičín © Město Jičín', lon:  15.3516528 , lat:  50.4370452, image: "../foto_praha/storzer_jiicn.jpg"},
                     {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
-                    {name: 'Smiřice (pohled na místní zámek s kaplí) © Robert Andrýs', lon:  15.8645911, lat:  50.2995707, image: "../foto_praha/storzer_smirice.jpg"},
+                    {name: 'Bitva u Trutnova', lon:  15.9130498, lat:  15.5608851, image: "../foto_praha/storzer_trutnov.jpg"},
+                    {name: 'Bitva u Náchoda (litografie z roku 1867)', lon:  16.1622871, lat:  50.4167025, image: "../foto_praha/storzer_nachod.jpg"},
+                    {name: 'Mnichovo Hradiště (počátek 20. století)', lon:  14.9741022, lat:  50.5229864, image: "../foto_praha/storzer_mnich.jpg"},
+                    {name: 'Bitva u Podolí ve vyobrazení H. Schüllingera', lon:  14.9916097, lat:  50.5471522, image: "../foto_praha/storzer_podoli.jpg"},
+                    {name: 'Cinco de Mayo (obraz "Poprava císaře Maxmiliána" od Eduarda Maneta)', lon:  -98.1981486, lat:  19.0437197, image: "../foto_praha/storzer_puebla.jpg"},
+                    {name: 'Bitva u Fredericksburgu', lon:  -77.4605400, lat:  38.3031836, image: "../foto_praha/storzer_fredericksburg.jpg"},
+                    {name: 'Bitva u Aspromonte (obraz "Zraněný Garibaldi u Aspromonte" od Gerolama Induna', lon:  15.9402172, lat:  38.1982139, image: "../foto_praha/storzer_aspromonte.jpg"},
+
                     
                 // neexistující místa
                 ]},
