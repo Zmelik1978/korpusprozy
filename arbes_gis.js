@@ -171,7 +171,15 @@ function showGraph(){
                     {name: 'Cinco de Mayo (obraz "Poprava císaře Maxmiliána" od Eduarda Maneta)', lon:  -98.1981486, lat:  19.0437197, image: "../foto_praha/storzer_puebla.jpg"},
                     {name: 'Bitva u Fredericksburgu', lon:  -77.4605400, lat:  38.3031836, image: "../foto_praha/storzer_fredericksburg.jpg"},
                     {name: 'Bitva u Aspromonte (obraz "Zraněný Garibaldi u Aspromonte" od Gerolama Induna', lon:  15.9402172, lat:  38.1982139, image: "../foto_praha/storzer_aspromonte.jpg"},
-
+                    {name: 'Bitva u Solferina (na obraze Adolpha Yvona)', lon:  10.5666789 , lat:  45.3685808, image: "../foto_praha/storzer_solferino.jpg"},
+                    {name: 'Bitva u Magenty (na obraze Gerolama Induna) ', lon:  8.8838428, lat:  45.4653931, image: "../foto_praha/storzer_magent.jpg"},
+                    {name: 'Obléhání Sevastopolu (na obraze George Baxtera)', lon:  33.5366244 , lat:  44.6069144, image: "../foto_praha/storzer_sevastopol.jpg"},
+                    {name: 'Bitva u Balaklavy (na obraze "Tenká červená linie" Roberta Gibba)', lon:  33.5990375 , lat:  44.5121317, image: "../foto_praha/storzer_balaklava.jpg"},
+                    {name: 'Bitva u Inkermanu (na obraze Williama H. Russella)', lon:  33.6043272 , lat:  44.6181042, image: "../foto_praha/storzer_inkerman.jpg"},
+                    {name: 'Kapitulace u Világoše (na obraze neznámého autora)', lon:  21.6385631 , lat:  46.2673050, image: "../foto_praha/storzer_vilagos.jpg"},
+                    {name: 'Malý Beszkerek (dnes vesnice Becicherecu Mic', lon:  21.0514742 , lat:  45.8346772, image: "../foto_praha/storzer_becicherecu.jpg"},
+                    {name: 'Bitva u Szöregu (na obraze B. Bachmanna-Hohmanna)', lon:  20.1966939 , lat:  46.2156822, image: "../foto_praha/storzer_szoreg.jpg"},
+                    {name: 'Bitva u Debrecínu (na obraze Mihályho Zichyho)', lon:  21.6259781 , lat:  47.5313989, image: "../foto_praha/storzer_debrecen.jpg"},
                     
                 // neexistující místa
                 ]},
