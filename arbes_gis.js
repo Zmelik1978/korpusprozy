@@ -190,8 +190,7 @@ function showGraph(){
                     {name: 'Bitva u Ceglédu (na obraze "Rakouská artilerie vracející se z bitvy u Cégledu" Augusta von Pettenkofena )', lon:  19.7977517 , lat:  47.1716447, image: "../foto_praha/storzer_cegled.jpeg"},
                     {name: 'Dobytí Brescie (na obraze "Bitva 31. března 1849 na Via delle Consolazione v Brescii" Faustina Joliho)', lon:   10.2200214 , lat:  45.5398022, image: "../foto_praha/storzer_brescia.jpg"},
                     {name: 'Bitva u Novary (na obraze "Polní maršálek Radecký se svým štábem v bitvě u Novary" Albrechta Adama)', lon:  8.6196550 , lat:  45.4464036, image: "../foto_praha/storzer_novara.jpg"},
-                    {name: 'Bitva u Mortary (na obraze neznámého autora)', lon:  8.7377447 , lat:  45.2518433, image: "../foto_praha/storzer_mortara.jpg"},
-                    
+                    {name: 'Bitva u Kápolny (na obraze Vasárnapiho Újsága)', lon: 20.2469694 , lat:  47.7604628, image: "../foto_praha/storzer_kapolna.jpg"},
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
