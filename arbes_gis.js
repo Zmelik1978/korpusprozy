@@ -202,6 +202,13 @@ function showGraph(){
                     {name: 'Bitva u Toulonu (na obraze Thomase Whitcomba)', lon:  5.9304919 , lat:  43.1257311, image: "../foto_praha/storzer_toulon.jpg"},
                     {name: 'Bitva u Varšavy (na obraze Wojciecha Kossaka)', lon: 21.0067247 , lat:  52.2319581, image: "../foto_praha/storzer_varsava.jpg"},
                     {name: 'Bitva u Ostrolenky (na obraze Karola Malankiewicze)', lon: 21.5668606 , lat:  53.0843136, image: "../foto_praha/storzer_ostrolenka.png"},
+                    {name: 'Obléhání Missolonghi (na obraze Panagiotise Zografa)', lon: 21.4283544 , lat:  38.3686353, image: "../foto_praha/storzer_varsava.jpg"},
+                    {name: 'Bitva u Waterloo (na obraze Williama Sadlera)', lon: 4.3977586, lat: 50.7175394, image: "../foto_praha/storzer_waterloo.png"},
+                    {name: 'Montmartre během bitvy o Paříž', lon: 2.3415714 , lat:  48.8867053, image: "../foto_praha/storzer_montmartre.jpg"},
+                    {name: 'Bitva u Chlumce (na obraze Alexandera Kotzebue)', lon: 13.9396372 , lat:  50.6997186, image: "../foto_praha/storzer_kulm.jpg"},
+                    {name: 'Bitva u Budyšína (na obraze Hippolyta Bellangého)', lon: 14.4275733 , lat:  51.1813906, image: "../foto_praha/storzer_bautzen.jpg"},
+                    {name: 'Bitva na Berezině (na obraze Januaryho Suchodolského)', lon: 28.354531, lat:  54.324722, image: "../foto_praha/storzer_berezina.jpg"},
+                    {name: 'Bitva u Malojaroslavce (na obraze Petera von Hesse)', lon: 36.4590244, lat:  55.0121808, image: "../foto_praha/storzer_malojaroslavec.jpg"},
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
