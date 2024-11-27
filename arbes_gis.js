@@ -209,6 +209,19 @@ function showGraph(){
                     {name: 'Bitva u Budyšína (na obraze Hippolyta Bellangého)', lon: 14.4275733 , lat:  51.1813906, image: "../foto_praha/storzer_bautzen.jpg"},
                     {name: 'Bitva na Berezině (na obraze Januaryho Suchodolského)', lon: 28.354531, lat:  54.324722, image: "../foto_praha/storzer_berezina.jpg"},
                     {name: 'Bitva u Malojaroslavce (na obraze Petera von Hesse)', lon: 36.4590244, lat:  55.0121808, image: "../foto_praha/storzer_malojaroslavec.jpg"},
+                    {name: 'Bitva u Moskvy (na obraze "Napoleon v hořící Moskvě" Albrechta Adama)', lon: 37.6174781 , lat:  55.7505411, image: "../foto_praha/storzer_moskva.jpg"},
+                    {name: 'Bitva u Borodina (na obraze Petera von Hesse)', lon: 35.816667, lat:  55.516667, image: "../foto_praha/storzer_borodino.jpg"},
+                    {name: 'Bitva u Wagramu', lon: 16.557778, lat:  48.295556, image: "../foto_praha/storzer_wagram.jpg"},
+                    {name: 'Bitva u Aspern-Essling (na obraze Fernanda Cormona)', lon: 16.5025, lat:  48.213056, image: "../foto_praha/storzer_aspern.jpg"},
+                    {name: 'Bitva u Jílového (na obraze "Napoleon v bitvě u Jílového" Antoina-Jeana Grose)', lon: 20.633333 , lat:  54.4, image: "../foto_praha/storzer_jilove.jpg"},
+                    {name: 'Bitva u Jeny (na obraze Henriho Chartiera vyobrazujícím maršála Joachima Murata)', lon: 11.5681969 , lat:  50.9537403, image: "../foto_praha/storzer_jena.jpg"},
+                    {name: 'Bitva u Slavkova (na obraze "Vítězný návrat generála Rappa, který Napoleonovi přiváží ukořistěné ruské prapory a zajatého knížete Repnina" Francoise Gérarda)', lon: 16.8764942 , lat:  49.1532550, image: "../foto_praha/storzer_slavkov.jpg"},
+                    {name: 'Bitva u San Dominga (na obraze T. L. Hornbrooka)', lon: -69.9299589 , lat:  18.4853600, image: "../foto_praha/storzer_domingo.jpg"},
+                    {name: 'Bitva u Trafalgaru (na obraze Sammuela Drummonda)', lon: -6.2, lat:  36.25, image: "../foto_praha/storzer_trafalgar.jpg"},
+                    {name: 'Bitva u Hohenlinden (na obraze H. F. Chopina)', lon:  11.9966653, lat:  48.1572694, image: "../foto_praha/storzer_hohenlinden.jpg"},
+                    {name: 'Bitva u Marenga (na obraze Lousie-Francoise Lejeuna)', lon: 8.683333, lat:  44.883333, image: "../foto_praha/storzer_marengo.jpg"},
+                    {name: 'Bitva u Abúkiru (na obraze Lousie-Francoise Lejeuna)', lon: 30.0641978, lat:  31.3203017, image: "../foto_praha/storzer_abukir.jpg"},
+
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
