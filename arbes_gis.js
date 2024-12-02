@@ -240,14 +240,27 @@ function showGraph(){
                     {name: 'Obléhání hradu Sion (na obraze "Poslední zápas Jana Roháče z Dubé na hardě Sion" Stanislava Hudečka)', lon: 15.211972, lat:  49.88975, image: "../foto_praha/storzer_sion.png"},
                     {name: 'Bitva u Lipan (na obraze Luďka Marolda)', lon: 14.937053, lat:  50.028547, image: "../foto_praha/storzer_lipany.jpg"},
                     {name: 'Bitva u Grunwaldu (na obraze Jana Matejka)', lon: 20.094444, lat:  53.483333, image: "../foto_praha/storzer_grunwald.jpg"},
-
-
-
-
-                // neexistující místa
+                    {name: 'Světlá (něm. Zwettl) © Waldviertel Tourismus', lon: 15.168889, lat:  48.603333, image: "../foto_praha/storzer_svetla.jpg"},
+                    {name: 'Ústí nad Labem (olejomalba Ferdinanda Lapiého z roku 1857)', lon: 14.0381357, lat: 50.6603327, image: "../foto_praha/Storzer_usti.jpg"},
+                    {name: 'Přibyslav (středověké vyobrazení)', lon: 15.7385453, lat:  49.5768383, image: "../foto_praha/storzer_pribyslav.jpg"},
+                    {name: 'Česká Skalice © Město Česká Skalice', lon: 16.0427606, lat:  50.3946672, image: "../foto_praha/storzer_skalice.jpg"},
+                    {name: 'Bitva u Hořic (na obraze "Bitva n sv. Gotthardě" Stanislava Hudečka)', lon: 15.6318322, lat:  50.3660892, image: "../foto_praha/storzer_horice.png"},
+                    {name: 'Dobytí Německého Brodu © Havlíčkův Bord v pověstech a historii', lon: 15.5806853, lat:  49.6078489, image: "../foto_praha/storzer_brod.jpg"},
+                    {name: 'Vyvraždění adamitů na Nežárce (na obraze "Záhuba adamitů" Františka Ženíška)', lon: 14.759444, lat:  49.155278, image: "../foto_praha/storzer_nezarka.jpg"},
+                    {name: 'Obléhání Žatce (fotografie současné podoby městských hradeb) © profimedia.cz', lon: 13.5457725, lat: 50.3271683, image: "../foto_praha/storzer_zatec.jpg"},
+                    {name: 'Bitva u Malešova (na fotografii tvrz, v jejímž okolí se bitva odehrála) © Prazak', lon: 14.937053, lat:  50.028547, image: "../foto_praha/storzer_malesov.jpg"},
+                    {name: 'Jaroměř © Z ptačího pohledu', lon: 15.9213639, lat:  50.35619, image: "../foto_praha/storzer_jaromer.jpg"},
+                    {name: 'Dobytí Litomyšle (na kresbě "Dobytí Litomyšle Bořkem z Dohalic" Franze Richtera)', lon: 16.3105192, lat: 49.8720311, image: "../foto_praha/storzer_litomysl.jpeg"},
+                    {name: 'Dobytí Berouna (středověké vyobrazení města)', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/storzer_beroun_b.jpg"},
+                    {name: 'Bitva u Panského boru (fotografie současné podoby bojiště) © Jana Sůvová', lon: 13.6522503, lat:  49.3305131, image: "../foto_praha/storzer_bor.jpeg"},
+                    {name: 'Bitva na Vítkově (na obraze Adolfa Liebschera); dnes Žižkov', lon: 14.4566083, lat:  50.0806550, image: "../foto_praha/storzer_vitkov.jpg"},
+                    {name: 'Bitva u Sudoměře (na obraze "Nájezd železných pánů na vozovou hradbu u Sudoměře" Adolfa Liebschera)', lon: 14.0478392, lat:  49.2503453, image: "../foto_praha/storzer_sudomer.jpg"},
+                    {name: 'Kostnice (iluminace upálení Mistra Jana Husa ve Spiezer Chronika Diabolda Schillinga st.)', lon: 9.1750717, lat:  47.6592161, image: "../foto_praha/storzer_janhus.jpg"},
+                    // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
                     {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Strachův dvůr (na kresbě z 19. století již místo neexistovalo, původně stálo pravděpodobně na kresbě vlevo v rohu namísto budovy s arkýřem)', lon: 15.7862661, lat:  50.2017069, image: "../foto_praha/storzer_kukleny.jpg"},
                 ]},
                 ]});    
                 break;
