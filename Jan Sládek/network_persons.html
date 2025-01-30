@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Relationships between Characters in a Fictional World</title>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/networkgraph.js"></script>
+    <script src="https://code.highcharts.com/modules/accessibility.js"></script>
+    <script src="../js/date.js"></script>
+    <script src="arbes_network_persons.js" async></script>
+</head>
+<body onload="loadTime();">
+    <link rel="stylesheet" href="network_persons.css">
+    <link rel="stylesheet" href="news.css" />
+
+    <div class="frame">
+        <h1 style="margin-top: 1.5rem">Relationships between Characters in a Fictional Worlds</h1>
+    </div>
+
+    <p style="margin-bottom: 50px; width: 100%; text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">The graphs show the links between the different characters in the fictional world. The bond is realized by talking to each other. If, for example, only one character speaks to another and the latter does not reciprocate the conversation, it is bonding and one-sided. There is a connection between the characters; you click on a specific character or narrator, their network is highlighted. The pink area is related to the narrator, the blue area is related to the character with whom the narrator or another character is speaking, the grey area is related to a character whose communication is not explicitly realized in the narrative - e.g. referred to by the narrator or another character.</p>
+
+    <select style="margin-top: 30px; float: left;" onchange="showGraph()" id="cluster">
+        <option>-- select --</option>
+        <option value="dabel">Ďábel na skřipci</option>
+        <option value="elegie">Elegie o černých očích</option>
+        <option value="xaverius">Svatý Xaverius</opiton>
+        <option value="demon">Sivooký démon</option>
+        <option value="madona">Zázračná madona</option>
+        <option value="ukrizovana">Ukřižovaná</option>
+        <option value="mozek">Newtonův mozek</option>
+        <option value="akrobati">Akrobati</option>
+        <option value="etiopskalilie">Etiopská lilie</option>
+        <option value="silenyjob">Šílený Job</option>
+        <option value="mujpritelvrah">Můj přítel vrah</option>
+        <option value="asponsepousmej">Aspoň se pousměj</option>
+        <option value="dvabarikadnici">Dva barikádníci</option>
+        <option value="prvninocumrtvoly">První noc u mrtvoly</option>
+        <option value="ildivinoboemo">Il divino Boemo</option>
+        <option value="annaamarie">Anna a Marie</option>
+        <option value="vymirajicihrbitov">Vymírající hřbitov</option>
+        <option value="kandidatiexistence">Kandidáti existence</option>
+        <option value="zborceneharfyton">Zborcené harfy tón</option>
+        <option value="adamite">Adamité</option>
+        <option value="agitator">Agitátor</option>
+      </select>
+    
+    <div id="container"></div>
+
+    <div style="clear:both;"></div>
+    <br>
+    <hr>
+    <p style="color: grey;">last update: <span id='demo'></span></p>
+<br>
+</body>
+</html>
