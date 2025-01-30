@@ -377,6 +377,28 @@ function showGraph(){
                 ]},
                 ]});    
                 break;                        
+        case "aspoň se pousměj":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Hradec Králové', lon: 15.8327512, lat: 50.2092113, image: "../foto_praha/storzer_hk.jpg"},
+                    {name: 'Chlum, pohlednice z r. 1866', lon: 15.7476958, lat: 50.2774267, image: "../foto_praha/storzer_chlum.jpg"},
+                    {name: 'Klatovy © Jiří Bernard', lon: 13.2935954, lat: 49.3951183, image: "../foto_praha/storzer_klatovy.jpg"},
+                    {name: 'Varnsdorf © České Švýcarsko', lon: 14.6194058, lat: 50.9124244, image: "../foto_praha/Storzer_varnsdorf.jpg"},
+                    {name: 'Hanšpach (dnes obec Lipová) © K23k23, Wikimedia Commons', lon:  14.3602164, lat: 51.0110414 , image: "../foto_praha/storzer_lipova.jpg"},
+                    {name: 'Brno okolo r. 1850 pohledem z Červeného kopce ve vyobrazení Františka Xavera Sandmanna', lon: 16.6113382, lat: 49.1922443, image: "../foto_praha/storzer_brno.jpg"},
+                    {name: 'Vratislav ve vyobrazení Viléma Kandlera', lon:  17.0326689, lat:  51.1089776, image: "../foto_praha/storzer_wroclaw.jpg"},
+                    {name: 'Madrid okolo 1890 (pohled na budovu Ministerstva dopravy a spojů)', lon: -3.7035825, lat: 40.4167047, image: "../foto_praha/storzer_madrid.jpg"},
+                    {name: 'Mnichovo Hradiště (počátek 20. století)', lon:  14.9741022, lat:  50.5229864, image: "../foto_praha/storzer_mnich.jpg"},
+                    {name: 'Podol (asi 30. léta 20. stol.)', lon:  14.4227797, lat:  50.0557597, image: "../foto_praha/podol.jpg"},
+                    {name: 'Paříž na konci 19. století (autorem obrazu je Camille Pissarro)', lon: 2.3483915, lat: 48.8534951, image: "../foto_praha/Storzer_pariz.jpg"},
+                    {name: 'Londýn (19. století) © London Stereoscopic Company, Getty Images', lon: -0.1277653, lat: 51.5074456, image: "../foto_praha/Storzer_london.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                ]},
+                ]});    
+                break;                        
         default:
             document.getElementById("gis").src = "";
     }
