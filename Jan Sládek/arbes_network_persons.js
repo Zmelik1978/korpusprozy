@@ -625,7 +625,7 @@ function showGraph() {
                     {id: 'strýc Robert', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava},
 
                     // vedlejší postavy
-                    {id: 'stařenka',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava},
+                    {id: 'stařenka',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                     {id: 'soudní komise',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava},
                     {id: 'sousedka',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava},
                     {id: 'zapisovatel',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava},
@@ -647,6 +647,18 @@ function showGraph() {
       break;
     case "madona":
         Highcharts.chart('container', {chart: {type: 'networkgraph',marginTop: 80},title: {text: 'Zázračná madona'}, tooltip: {formatter: function () {let info; switch (this.color) { case vypravec: console.log(vypravec); info = " - homodiegetic"; break; case postava: console.log(postava); info = " - character"; break; case postava2: console.log(postava2); info = " - character"; break;} return '<b>' + this.key + '</b> ' + info; }}, plotOptions: {networkgraph: {keys: ['from', 'to'], layoutAlgorithm: {gravitationalConstant: 0.0625, enableSimulation: true, integration: 'verlet', linkLength: 200}}},  series: [{link: {width: 1.5, dashStyle: 'solid'}, marker: {radius: 13 }, dataLabels: {enabled: true, linkFormat: '', allowOverlap: true, style: {textOutline: false}}, data: [
+                     []
+                  ], nodes: 
+                      [
+                      {id: 'narrator', marker: {radius: 30, lineWidth: linewidth, lineColor: line}, color: vypravec},
+                      
+                    ]
+                  }
+                ]
+            });
+        break;
+      case "ukrizovana":
+        Highcharts.chart('container', {chart: {type: 'networkgraph',marginTop: 80},title: {text: 'Ukřižovaná'}, tooltip: {formatter: function () {let info; switch (this.color) { case vypravec: console.log(vypravec); info = " - homodiegetic"; break; case postava: console.log(postava); info = " - character"; break; case postava2: console.log(postava2); info = " - character"; break;} return '<b>' + this.key + '</b> ' + info; }}, plotOptions: {networkgraph: {keys: ['from', 'to'], layoutAlgorithm: {gravitationalConstant: 0.0625, enableSimulation: true, integration: 'verlet', linkLength: 200}}},  series: [{link: {width: 1.5, dashStyle: 'solid'}, marker: {radius: 13 }, dataLabels: {enabled: true, linkFormat: '', allowOverlap: true, style: {textOutline: false}}, data: [
                      []
                   ], nodes: 
                       [
