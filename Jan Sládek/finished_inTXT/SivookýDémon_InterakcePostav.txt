@@ -1,0 +1,624 @@
+dívka -> muž s břemenem
+muž s břemenem -> dívka
+
+duchovní -> "ke všem" (odříkal otčenáš - počítá se to jako interakce?)
+
+stařenka -> soudní komise
+
+jedna z odvážnějších sousedek -> zapisovatel
+zapisovatel -> sousedka
+zapisovatel -> sousedka
+sousedka -> zapisovatel
+zapisovatel -> sousedka
+sousedka -> zapisovatel
+ 
+zapisovatel -> kočí
+
+hrobník -> zapisovatel
+
+protagonista -> přítel
+přítel -> protagonista
+protagonista -> přítel
+přítel -> protagonista
+protagonista -> přítel
+přítel -> protagonista
+
+strýc strýc (dopis) -> protagonista
+neznámý přítel (druhý dopis/Regina) -> protagonista
+
+hospodský -> protagonista
+protagonista -> hostinský
+hostinský -> protagonista
+protagonista -> hostinský
+hostinský -> protagonista
+protagonista -> hostinský
+hostinský -> protagonista
+
+protagonista -> kočí
+
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+
+kočí -> protagonista
+protagonista -> kočí
+protagonista -> kočí
+
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+
+protagonista -> kočí
+protagonista -> kočí
+protagonista -> kočí
+kočí -> protagonista
+
+
+jezdkyně -> protagonista
+jezdkyně -> protagonista
+
+
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+
+stařena -> strýc, protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+strýc -> protagonista
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+
+
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+
+Regina -> protagonista:
+	(Regina == jezdkyně)
+
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+
+strýc -> Regina
+Regina -> strýc
+strýc -> Regina
+strýc -> Regina
+Regina -> strýc
+
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+protagonista -> stařena
+
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+Regina -> protagonista:
+	děvčátko -> stařec (Reginin otec)
+	děvčátko -> stařec
+	stařec -> děvčátko
+	děvčátko -> stařec
+	stařec -> děvčátko
+	stařec -> děvčátko
+	děvčátko -> stařec
+	stařec -> děvčátko
+	stařec -> děvčátko
+
+	stařec -> důstojník
+	stařec -> důstojník
+
+
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+	(děvčátko == Regina, důstojník == strýc Robert)
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+Regina -> protagonista:
+	strýc -> Regina
+	Regina -> strýc
+	strýc -> Regina
+	Regina -> strýc
+	strýc -> Regina
+
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+protagonista -> stařena
+stařena -> protagonista
+protagonista -> stařena
+
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+Regina -> protagonista
+protagonista -> Regina
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+protagonista -> Regina
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+protagonista -> Regina
+
+Regina -> protagonista:
+	domovník -> Regina
+	Regina -> domovník
+	domovník -> Regina
+
+	mladý muž -> Regina
+	mladý muž -> Regina
+	Regina -> mladý muž
+	mladý muž -> Regina
+	Regina -> mladý muž
+	mladý muž -> Regina
+	Regina -> mladý muž
+	mladý muž -> Regina
+	mladý muž -> Regina
+	Regina -> mladý muž
+	mladý muž -> Regina
+	mladý muž -> Regina
+
+	mladý muž -> domovník
+	domovník -> mladý muž
+	mladý muž -> domovník
+	domovník -> mladý muž
+	mladý muž -> domovník
+	mladý muž -> domovník
+	domovník -> mladý muž
+
+	mladý muž -> Regina
+	mladý muž -> Regina
+
+Regina -> protagonista
+
+Regina -> protagonista:
+	Regina -> mladý muž
+	mladý muž -> Regina
+	Regina -> mladý muž
+	Regina -> mladý muž
+
+	mladý muž -> Regina
+	Regina -> mladý muž
+	mladý muž -> Regina
+	Regina -> mladý muž
+
+Regina -> protagonista
+protagonista -> Regina
+Regina -> protagonista
+
+stařena -> protagonista
+
+
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+
+strýc -> protagonista:
+	strýc -> granátníci
+	strýc -> zrzoun
+	strýc -> zrzoun
+		(zrzoun == kočí)
+
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+
+kočí -> strýc
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+
+protagonista -> policisté
+adjunkt -> protagonista
+strýc -> policisté
+adjunkt -> strýc
+strýc -> policisté
+strýc -> kočí
+
+strýc -> protagonista
+protagonista -> strýc
+
+strýc -> všichni (čeleď, policisté, protagonista, kočí)
+
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+
+strýc -> Regina
+Regina -> strýc
+Regina -> strýc
+strýc -> neznámý
+strýc -> protagonista
+
+agent -> neznámý
+neznámý -> agent
+agent -> neznámý
+adjunkt -> agent
+agent -> adjunkt
+adjunkt -> agent
+agent -> adjunkt
+adjunkt -> agent
+agent -> adjunkt
+adjunkt -> agent
+adjunkt -> neznámý
+	(neznámý == přítel)
+
+protagonista -> přítel
+strýc -> čeleď
+
+Regina -> strýc
+
+*kočí -> psi (počítá se to?)
+*psi -> agent
+
+protagonista -> kočí
+kočí -> protagonista
+protagonista -> kočí
+kočí -> protagonista
+
+*kočí -> psi
+
+agent -> protagonista
+kočí -> agent
+kočí -> agent
+
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+Regina -> protagonista
+	
+
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+protagonista -> strýc
+strýc -> protagonista
+strýc -> protagonista
+
+
+
+
+
+
+
+
+
+_______________
+
+_pozn. 1: - seznam postav s více označeními:
+
+Regina = jezdkyně = děvčátko
+kočí = zrzoun
+přítel = mladý muž = neznámý
+strýc = důstojník
+
+
+_pozn. 2: - upřesnění, kdo je kdo:
+
+"stařena" je služebná u strýce Roberta
+"policisté" jsou (policejní) "adjunkt" a (policejní) "agent"
+
+
+_pozn. 3: - nejsem si jistý, zda se dají psi počítat jako plnohodnotná postava (řekl bych, že ne, alůe vzhledem k interakci mezi kočím a agentem skrze psy jsem to nechtěl vynechat), takže jsem to vždycky označil hvězdičkou, ať se to pak snáze dohledá, bude-li se to vypouštět
