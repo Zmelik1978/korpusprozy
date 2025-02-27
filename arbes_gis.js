@@ -399,6 +399,29 @@ function showGraph(){
                 ]},
                 ]});    
                 break;                        
+        case "dva barikádníci":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
+                    {name: 'Nové Město, Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
+                    {name: 'Křižovnické náměstí na kresbě L. Langeho z r. 1842 © Archiv autora', lon: 14.414201489354916, lat: 50.08620635, image: "../foto_praha/storzer_krizovnicke_n.jpg"},
+                    {name: 'Jezovitská, dnes Karlova (1903) © Zmizelá Praha, sv 1, 2002', lon: 14.419016941176302, lat: 50.08633655213753, image: "../foto_praha/storzer_karlova.jpg"},
+                    {name: 'Karlov', lon: 14.4265703, lat: 50.0693008, image: "../foto_praha/storzer_karlov.jpg"},
+                    
+                    {name: 'Kartouzská věznice © Vězeňská služba České republiky', lon: 15.3896331, lat: 50.4553472, image: "../foto_praha/storzer_kartouzy.jpg"},
+                    {name: ' Plzeňská tř. (1873) Plán kr. hl. mětsa s vůkolím do F. Kořistky', lon:  14.3991897, lat:  50.0718667, image: "../foto_praha/plzenskatrida.jpg"},
+                    {name: ' Smíchov (19. stol.) © V. Morstadt', lon:  14.4048437 , lat:  50.0749464, image: "../foto_praha/smichov.jpg"},
+                    {name: 'Košíře (1920) © Augustin Kočí', lon: 14.362062, lat: 50.0670831, image: "../foto_praha/Storzer_kosire.jpg"},
+                    {name: 'Jičín © Město Jičín', lon:  15.3516528 , lat:  50.4370452, image: "../foto_praha/storzer_jiicn.jpg"},
+                    {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Buďánka © Archiv hlavního města Prahy', lon: 14.3693956, lat: 50.0708722, image: "../foto_praha/"},
+                ]},
+                ]});    
+                break;  
         default:
             document.getElementById("gis").src = "";
     }
