@@ -408,17 +408,25 @@ function showGraph(){
                     {name: 'Křižovnické náměstí na kresbě L. Langeho z r. 1842 © Archiv autora', lon: 14.414201489354916, lat: 50.08620635, image: "../foto_praha/storzer_krizovnicke_n.jpg"},
                     {name: 'Jezovitská, dnes Karlova (1903) © Zmizelá Praha, sv 1, 2002', lon: 14.419016941176302, lat: 50.08633655213753, image: "../foto_praha/storzer_karlova.jpg"},
                     {name: 'Karlov', lon: 14.4265703, lat: 50.0693008, image: "../foto_praha/storzer_karlov.jpg"},
-                    
-                    {name: 'Kartouzská věznice © Vězeňská služba České republiky', lon: 15.3896331, lat: 50.4553472, image: "../foto_praha/storzer_kartouzy.jpg"},
-                    {name: ' Plzeňská tř. (1873) Plán kr. hl. mětsa s vůkolím do F. Kořistky', lon:  14.3991897, lat:  50.0718667, image: "../foto_praha/plzenskatrida.jpg"},
+                    {name: 'Klementinum © Karelj', lon: 14.4156719, lat: 50.0866050, image: "../foto_praha/storzer_klementinum.jpg"},
+                    {name: 'Mariánské náměstí (1910) © Praha očima staletí', lon:  14.417541904255318, lat:  50.08702395, image: "../foto_praha/storzer_marian.jpg"},
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: ' Vltava ', lon:  14.4109975, lat:  50.0840539, image: "../foto_praha/vltava.jpg"},
+                    {name: 'Hradčany (60. léta 19. stol.) © Zmizelá Praha, sv. 7, 1919', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/hradcany.jpg"},
+                    {name: 'Podskalí © EPOQUE 1900', lon: 14.4143628, lat: 50.0687486, image: "../foto_praha/storzer_podskali.jpg"},
+                    {name: 'Karlín (1870) © Praha očima staletí', lon: 14.4583639, lat: 50.0926769, image: "../foto_praha/storzer_karlin.jpg"},
+                    {name: 'Josefov © EPOQUE 1900', lon: 14.4180217, lat: 50.0900189, image: "../foto_praha/storzer_josefov.jpg"},
+                    {name: 'Rejdiště (dnes náměstí Jana Palacha; fotografie ze stavby Rudolfina) © Národní technické muzeum', lon: 14.415704787139477, lat: 50.0891023, image: "../foto_praha/storzer_rejdiste.jpg"},
                     {name: ' Smíchov (19. stol.) © V. Morstadt', lon:  14.4048437 , lat:  50.0749464, image: "../foto_praha/smichov.jpg"},
-                    {name: 'Košíře (1920) © Augustin Kočí', lon: 14.362062, lat: 50.0670831, image: "../foto_praha/Storzer_kosire.jpg"},
-                    {name: 'Jičín © Město Jičín', lon:  15.3516528 , lat:  50.4370452, image: "../foto_praha/storzer_jiicn.jpg"},
-                    {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
+                    {name: 'Barvířský ostrov (dnes Střelecký; rytina Johannese Wechtera z roku 1606) © ČTK', lon: 14.4099675, lat: 50.0814239, image: "../foto_praha/streleckyostrov.jpg"},
+                    {name: 'Sovovy mlýny, přelom 19. a 20. století © Muzeum Kampa', lon: 14.40820789955488, lat: 50.083764450000004, image: "../foto_praha/Storzer_Mlyny_archivni-1024x490.jpg"},
+                    {name: 'Kampa (1870) © Zmizelá Praha, sv. 5, 1919', lon: 14.4079667, lat:  50.0845494, image: "../foto_praha/kampa.jpg"},
+                    
+                    {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/storzer_beroun.jpg"},
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
-                    {name: 'Buďánka © Archiv hlavního města Prahy', lon: 14.3693956, lat: 50.0708722, image: "../foto_praha/"},
+                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
                 ]},
                 ]});    
                 break;  
