@@ -422,11 +422,25 @@ function showGraph(){
                     {name: 'Sovovy mlýny, přelom 19. a 20. století © Muzeum Kampa', lon: 14.40820789955488, lat: 50.083764450000004, image: "../foto_praha/Storzer_Mlyny_archivni-1024x490.jpg"},
                     {name: 'Kampa (1870) © Zmizelá Praha, sv. 5, 1919', lon: 14.4079667, lat:  50.0845494, image: "../foto_praha/kampa.jpg"},
                     
-                    {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/storzer_beroun.jpg"},
+                    {name: 'Malostranská mostecká věž © Prague City Tourism', lon: 14.4068444, lat: 50.0872378, image: "../foto_praha/storzer_mmvez.jpg"},
+                    {name: ' Mostecká ul. (1901) © V. Jansa', lon:  14.4060869, lat:  50.0873433, image: "../foto_praha/mosteckaulice.jpg"},
+                    {name: 'Malostranské náměstí © EPOQUE 1900', lon: 14.4043312492108, lat: 50.088113899999996, image: "../foto_praha/storzer_malostransken.jpg"},
+                    {name: ' Mariánské hradby, nyní ul. Mariánské hradby (1870) © Wikipedie', lon: 14.4028517, lat:  50.0938675, image: "../foto_praha/marianskehradby.jpg"},
+                    {name: 'Bruská brána (dnes Písecká brána) © Světozor', lon: 14.4058908, lat: 50.0952119, image: "../foto_praha/storzer_bruskab.jpg"},
+                    {name: 'Letohrádek královny Anny (Belveder) © Archiv Pražského hradu', lon: 14.4053217, lat: 50.0937844, image: "../foto_praha/storzer_belveder.jpg"},
+                    {name: ' Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/pohorelec.jpg"},
+                    {name: 'Štvanice (1921) © Český svět', lon: 14.4180217, lat: 50.0900189, image: "../foto_praha/storzer_stvanice.jpg"},
+                    {name: 'Krveprolití r. 1848 v Běchovicích (na vyobrazení J. Z. Quasta)', lon: 14.6159525, lat: 50.0810628, image: "../foto_praha/storzer_bechovice.jpg"},
+                    {name: 'Kolín ve 40. letech 19. století (dobová rytina) © Beschreibende und malerische Darstellung der K. K. österreichischen Staatseisenbahn von Olmütz bis Prag / Verfasst von L. Förster und A. Demarteau', lon:  15.2011571 , lat:  50.0288894, image: "../foto_praha/storzer_kolin.jpg"},
+                    {name: 'Čáslav (1810) © MěÚ Čáslav', lon: 15.3913205, lat: 49.9109171, image: "../foto_praha/storzer_caslav.jpg"},
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
                     {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Strahovská brána', lon: 14.3885875, lat: 50.0911817, image: "../foto_praha/strahovskabrana.png"},
+                    {name: 'Bruska s nádražím', lon: 14.3988508, lat: 50.0966058, image: "../foto_praha/storzer_bruska.jpeg"},
+                    {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
                 ]},
                 ]});    
                 break;  
