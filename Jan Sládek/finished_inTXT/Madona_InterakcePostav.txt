@@ -1,0 +1,298 @@
+Matka -> dívka
+
+Rváči (mezi sebou)
+
+Matka -> dítě
+Matka -> dítě
+
+Matka -> dítě
+Matka -> dítě
+
+Matka2 -> chlapec
+Chlapec -> Matka2
+Matka2 -> chlapec
+Chlapec -> Matka2
+
+Chlapec -> ???? (kuchařka?)
+Správce -> Chlapec
+Správce -> Chlapec
+Správce -> Chlapec
+Správce -> Chlapec
+
+Správce -> Chlapec
+Chlapec -> Správce
+Správce -> Chlapec
+
+Mužský hlas -> Služka
+Někdo od stolu -> Služka
+
+Správce -> Chlapec
+Chlapec -> Správce
+
+Dívčina -> chlapec
+
+Paní domu (Správcová?) -> chlapec
+Chlapec -> Správcová
+Správcová -> Chlapec
+Chlapec -> Správcová
+Správcová -> Chlapec
+Chlapec -> Správcová
+Důstojník -> Chlapec
+Chlapec -> Důstojník
+Důstojník -> Chlapec
+Chlapec -> Důstojník
+Důstojník -> Chlapec
+Chlapec -> Důstojník
+Důstojník -> Chlapec
+Chlapec -> Důstojník
+Důstojník -> Chlapec
+Důstojník -> Chlapec
+Chlapec -> Důstojník
+Důstojník -> Chlapec
+
+Důstojník -> Chlapec
+Důstojník -> Chlapec
+Chlapec -> Důstojník
+Důstojník -> Chlapec
+Chlapec -> Důstojník
+
+Chlapec -> Důstojník
+Strýc -> Chlapec
+Hostitel -> Strýc
+
+
+
+
+(!! postavy kuchařka, služka, mužský hlas, správcová, důstojník, správce, hostitel a strýc dávám prozatím do jediné "kategorie" jakožto postavu "stolovníci", protože mi přijde, e vlastně nejsou přliš podstatné pronásledující děj a ve výsledku ani moc nevíme, kdo přesně vlastně všichni jsou. 
+V případě přehodnocení atp. je lze upravit, nicméně pro jistotu to píšu sem, ať je to dohledatelné)
+
+
+
+Ismenka -> Chlapec
+	(Chlapec = Jeník)
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+Ismenka -> Jeník
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+
+Ismenka -> Jeník
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+
+Svědomí -> Jeník
+
+Jeník -> Ismenka
+Ismenka -> Jeník
+Jeník -> Ismenka
+Jeník -> Ismenka
+Ismenka -> Jeník
+Jeník -> Ismenka
+Ismenka -> Jeník
+
+
+Otec -> Jeník
+Jeník -> Otec
+Otec -> Jeník
+
+
+
+Malíř -> Jeník
+
+Lékárník -> Ismena
+Ismena -> Lékárník
+Lékárník -> Jeník, Ismena, Malíř
+Jeník -> Lékárník
+Lékárník -> Jeník
+
+
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Ismena -> Jeník
+
+(po letech)
+
+Ismena -> Jeník
+
+Přítel (v dopise) -> Jeník
+
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+
+Jeník -> Ismena
+	Matka -> Ismena
+	Ismena -> Matka
+	Starý pán -> Ismena
+	Ismena -> Starý pán
+	Starý pán -> Ismena
+	Ismena -> Starý pán
+	Starý pán -> Ismena
+
+	Starý pán -> Ismena
+
+	(Matka -> Madona)
+
+Jeník -> Ismena
+Ismena -> Jeník
+
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+
+Ismena -> Jeník
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+
+Ismena -> Jeník
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+
+
+
+Malíř -> Jeník
+Malíř -> Jeník
+Malíř -> Jeník
+Jeník -> Malíř
+
+
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+
+
+
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+
+
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+Jeník -> Malíř
+Malíř -> Jeník
+
+Jeník -> Dívka
+Dívka -> Jeník
+Jeník -> Dívka
+Dívka -> Jeník
+
+Jeník -> Kočí
+Kočí -> Jeník
+Jeník -> Kočí
+
+
+
+Jeník -> Malíř
+Malíř -> Jeník
+
+Ismena (v dopise) -> Jeník
+
+
+(Žena -> Jeník)
+
+
+Ismena -> Jeník
+Ismena -> Jeník
+
+
+
+Jeník -> Doktor
+Doktor -> Jeník
+Jeník -> Doktor
+Doktor -> Jeník
+
+
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Ismena -> Jeník
+
+
+Ismena -> Jeník
+
+
+
+Jeník -> Ismena
+Ismena -> Jeník
+Jeník -> Ismena
+Jeník -> Ismena
+Ismena -> Jeník
+Ismena -> Jeník
+
+
+----------------------------------------------------------
+
+pozn.:
+
+Jeník == protagonista
+Přítel == Malíř
+"Matka" = matka Ismeny
+Dívka == Ismena 
