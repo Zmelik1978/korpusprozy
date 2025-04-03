@@ -421,7 +421,6 @@ function showGraph(){
                     {name: 'Barvířský ostrov (dnes Střelecký; rytina Johannese Wechtera z roku 1606) © ČTK', lon: 14.4099675, lat: 50.0814239, image: "../foto_praha/streleckyostrov.jpg"},
                     {name: 'Sovovy mlýny, přelom 19. a 20. století © Muzeum Kampa', lon: 14.40820789955488, lat: 50.083764450000004, image: "../foto_praha/Storzer_Mlyny_archivni-1024x490.jpg"},
                     {name: 'Kampa (1870) © Zmizelá Praha, sv. 5, 1919', lon: 14.4079667, lat:  50.0845494, image: "../foto_praha/kampa.jpg"},
-                    
                     {name: 'Malostranská mostecká věž © Prague City Tourism', lon: 14.4068444, lat: 50.0872378, image: "../foto_praha/storzer_mmvez.jpg"},
                     {name: ' Mostecká ul. (1901) © V. Jansa', lon:  14.4060869, lat:  50.0873433, image: "../foto_praha/mosteckaulice.jpg"},
                     {name: 'Malostranské náměstí © EPOQUE 1900', lon: 14.4043312492108, lat: 50.088113899999996, image: "../foto_praha/storzer_malostransken.jpg"},
@@ -433,7 +432,19 @@ function showGraph(){
                     {name: 'Štvanice (1921) © Český svět', lon: 14.4180217, lat: 50.0900189, image: "../foto_praha/storzer_stvanice.jpg"},
                     {name: 'Krveprolití r. 1848 v Běchovicích (na vyobrazení J. Z. Quasta)', lon: 14.6159525, lat: 50.0810628, image: "../foto_praha/storzer_bechovice.jpg"},
                     {name: 'Kolín ve 40. letech 19. století (dobová rytina) © Beschreibende und malerische Darstellung der K. K. österreichischen Staatseisenbahn von Olmütz bis Prag / Verfasst von L. Förster und A. Demarteau', lon:  15.2011571 , lat:  50.0288894, image: "../foto_praha/storzer_kolin.jpg"},
-                    {name: 'Čáslav (1810) © MěÚ Čáslav', lon: 15.3913205, lat: 49.9109171, image: "../foto_praha/storzer_caslav.jpg"},
+                    {name: 'Čáslav (na vedutě Jana Antonína Venuta)', lon: 15.3913205, lat: 49.9109171, image: "../foto_praha/storzer_caslav.jpg"},
+                    {name: 'Kutná Hora (na vedutě Jana Antonína Venuta)', lon:  15.2681123, lat: 49.9486561, image: "../foto_praha/storzer_kutnah.jpg"},
+                    {name: 'Chrudim (na vedutě Jana Antonína Venuta)', lon: 15.7947559, lat: 49.9511458, image: "../foto_praha/storzer_chrudim.jpg"},
+                    {name: 'Nová Paka (na vedutě Jana Antonína Venuta)', lon: 15.5158558, lat: 50.4945183, image: "../foto_praha/storzer_paka.jpg"},
+                    {name: 'Jilemnice (na vedutě Jana Antonína Venuta)', lon: 15.5065283, lat: 50.6088950, image: "../foto_praha/storzer_jilemnice.jpg"},
+                    {name: 'Vrchlabí (na vedutě Jana Antonína Venuta)', lon: 15.6093736, lat: 50.6269661, image: "../foto_praha/storzer_vrchlabi.jpg"},
+                    {name: 'Hostinné (na vedutě Jana Antonína Venuta)', lon: 15.7233333, lat: 50.5406617, image: "../foto_praha/storzer_hostinne.jpg"},
+                    {name: 'Lomnice nad Popelkou (na vedutě Jana Antonína Venuta)', lon: 15.3734081, lat: 50.5306233, image: "../foto_praha/storzer_lomnice.jpg"},
+                    {name: 'Konvikt', lon:  14.4174694 , lat:50.0834414, image: "../foto_praha/storzer_konvikt.jpg"},
+                    {name: ' Staroměstská radnice (19. stol.) © V. Jansa', lon:  14.4205922, lat:  50.0872056, image: "../foto_praha/staromestskaradnice.jpg"},
+                    {name: 'Prašná brána na fotografii A. Golla (1856)', lon: 14.4277814, lat: 50.0872650, image: "../foto_praha/storzer_prasnab.jpg"},
+                    {name: 'Bubeneč (Na obraze "Pohled na Bubeneč A. Mánesa")', lon: 14.4001203, lat: 50.1011389, image: "../foto_praha/storzer_bubenec.jpeg"},
+
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
@@ -441,6 +452,7 @@ function showGraph(){
                     {name: 'Strahovská brána', lon: 14.3885875, lat: 50.0911817, image: "../foto_praha/strahovskabrana.png"},
                     {name: 'Bruska s nádražím', lon: 14.3988508, lat: 50.0966058, image: "../foto_praha/storzer_bruska.jpeg"},
                     {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
+                    {name: 'Poříčská brána © Světozor', lon: 14.437158, lat: 50.090698, image: "../foto_praha/storzer_poricskab.png"},
                 ]},
                 ]});    
                 break;  
