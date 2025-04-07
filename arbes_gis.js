@@ -443,7 +443,15 @@ function showGraph(){
                     {name: 'Konvikt', lon:  14.4174694 , lat:50.0834414, image: "../foto_praha/storzer_konvikt.jpg"},
                     {name: ' Staroměstská radnice (19. stol.) © V. Jansa', lon:  14.4205922, lat:  50.0872056, image: "../foto_praha/staromestskaradnice.jpg"},
                     {name: 'Prašná brána na fotografii A. Golla (1856)', lon: 14.4277814, lat: 50.0872650, image: "../foto_praha/storzer_prasnab.jpg"},
-                    {name: 'Bubeneč (Na obraze "Pohled na Bubeneč A. Mánesa")', lon: 14.4001203, lat: 50.1011389, image: "../foto_praha/storzer_bubenec.jpeg"},
+                    {name: 'Bubeneč (Na obraze "Pohled na Bubeneč" A. Mánesa)', lon: 14.4001203, lat: 50.1011389, image: "../foto_praha/storzer_bubenec.jpeg"},
+                    {name: 'Pelc-Tyrolka', lon: 14.4449658, lat: 50.1167003, image: "../foto_praha/storzer_pelc.jpg"},
+                    {name: 'Troja', lon: 14.4234250, lat: 50.1221472, image: "../foto_praha/storzer_troja.jpg"},
+                    {name: 'Roztoky na obraze A. Chittussiho (1884)', lon: 14.3836175, lat: 50.1636703, image: "../foto_praha/storzer_roztoky.jpg"},
+                    {name: 'Podbaba na kresbě J. Kaplického', lon: 14.3951908, lat: 50.1093178, image: "../foto_praha/storzer_podbaba.jpg"},
+                    {name: 'Klecany', lon: 14.4114803, lat: 50.1759878, image: "../foto_praha/storzer_klecany.jpg"},
+                    {name: 'Letná (1888) © Světozor', lon: 14.4158122, lat: 50.0976897, image: "../foto_praha/storzer_letna.jpg"},
+                    {name: 'Hradec Králové', lon: 15.8327512, lat: 50.2092113, image: "../foto_praha/storzer_hk.jpg"},
+                    {name: 'České Budějovice (na vedutě Jana Antonína Venuta) © hrady-zriceniny.cz', lon: 14.4743419, lat: 48.9744689, image: "../foto_praha/storzer_ceskebudejovice.jpg"},
 
                 // neexistující místa
                 ]},
@@ -453,6 +461,9 @@ function showGraph(){
                     {name: 'Bruska s nádražím', lon: 14.3988508, lat: 50.0966058, image: "../foto_praha/storzer_bruska.jpeg"},
                     {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
                     {name: 'Poříčská brána © Světozor', lon: 14.437158, lat: 50.090698, image: "../foto_praha/storzer_poricskab.png"},
+                    {name: 'Wimmerovy sady (na kresbě A. Pucherny okolo r. 1810)', lon: 14.4294233, lat: 50.0672708, image: "../foto_praha/storzer_wimmerovy_sady.jpg"},
+                    {name: 'Koňská brána (1874) © Radek Linner', lon: 14.430335, lat: 50.079339, image: "../foto_praha/storzer_konska_brana.jpg"},
+
                 ]},
                 ]});    
                 break;  
