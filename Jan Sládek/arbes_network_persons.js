@@ -864,9 +864,10 @@ function showGraph() {
                       // hlavní postavy
                       {id: 'Ismena',marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava},
                       {id: 'Přítel malíř', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava},
-                      {id: 'Pěstoun', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava},
+                      
                       
                       // vedlejší postavy
+                      {id: 'Pěstoun', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'Doktor',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'Kočí',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'Matka vypravěče',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
