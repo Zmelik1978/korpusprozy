@@ -755,7 +755,7 @@ function showGraph() {
           ["Ismena", "narrator"],
           ["narrator", "Ismena"],
           ["Matka Ismeny", "Ismena"],
-          ["Ismena", "Matka Ismena"],
+          ["Ismena", "Matka Ismeny"],
           ["Pěstoun", "Ismena"],
           ["Ismena", "Pěstoun"],
           ["Pěstoun", "Ismena"],
