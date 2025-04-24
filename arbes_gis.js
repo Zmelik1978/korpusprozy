@@ -286,7 +286,7 @@ function showGraph(){
                     {name: 'Václavské náměstí (pohlednice z přelomu 19. a 20. století) © Stará Praha', lon: 14.427170364227162, lat: 50.0815867, image: "../foto_praha/Storzer_vaclavak.jpg"},
                     {name: 'Řezno, německy Regensburg (1905) © Detroit Photographic Company', lon: 12.0974869, lat: 49.0195333, image: "../foto_praha/Storzer_rezno.jpg"},
                     {name: 'Plzeň (obraz z 19. století)', lon: 13.3775249, lat: 49.7477415, image: "../foto_praha/Storzer_plzen.jpg"},
-                    {name: 'Domažlice © Vlastimil, Výletník.cz', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Domažlice (na vedutě Jana Antonína Venuta)', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
                     {name: 'Brod nad Lesy, německy Furth im Wald © Andi-Furth, Wikimedia Commons', lon: 12.8452826, lat: 49.3081639, image: "../foto_praha/Storzer_furth.jpg"},
                     {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
                     {name: 'Rokycany © Město Rokycany', lon: 13.594778, lat: 49.7428813, image: "../foto_praha/Storzer_rokycany.jpg"}
@@ -345,7 +345,7 @@ function showGraph(){
                     {name: 'Slaný, historická pohlednice', lon: 14.0868501, lat: 50.2306933, image: "../foto_praha/Storzer_slany.jpg"},
                     {name: 'Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
                     {name: 'Vyšehrad s kostelem (1872) © Zmizelá Praha, sv. 4, 1919', lon: 14.4178128,lat: 50.0643569, image: "../foto_praha/vysehradskykostel.jpg"},
-                    {name: 'Domažlice © Vlastimil, Výletník.cz', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Domažlice (na vedutě Jana Antonína Venuta)', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
                     {name: 'Nové Město, Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
                     {name: 'Monte Cassino © Creative Commons Attribution-Share Alike 3.0 ', lon: 13.813755546570292, lat: 41.49088145, image: "../foto_praha/storzer_cassino.jpg"},
                 // neexistující místa
