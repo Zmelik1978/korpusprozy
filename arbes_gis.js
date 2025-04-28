@@ -247,7 +247,7 @@ function showGraph(){
                     {name: 'Bitva u Hořic (na obraze "Bitva n sv. Gotthardě" Stanislava Hudečka)', lon: 15.6318322, lat:  50.3660892, image: "../foto_praha/storzer_horice.png"},
                     {name: 'Dobytí Německého Brodu © Havlíčkův Bord v pověstech a historii', lon: 15.5806853, lat:  49.6078489, image: "../foto_praha/storzer_brod.jpg"},
                     {name: 'Vyvraždění adamitů na Nežárce (na obraze "Záhuba adamitů" Františka Ženíška)', lon: 14.759444, lat:  49.155278, image: "../foto_praha/storzer_nezarka.jpg"},
-                    {name: 'Obléhání Žatce (fotografie současné podoby městských hradeb) © profimedia.cz', lon: 13.5457725, lat: 50.3271683, image: "../foto_praha/storzer_zatec.jpg"},
+                    {name: 'Obléhání Žatce (na obraze veduta města Žatec) © hrady-zriceniny.cz', lon: 13.5457725, lat: 50.3271683, image: "../foto_praha/storzer_zatec.jpg"},
                     {name: 'Bitva u Malešova (na fotografii tvrz, v jejímž okolí se bitva odehrála) © Prazak', lon: 14.937053, lat:  50.028547, image: "../foto_praha/storzer_malesov.jpg"},
                     {name: 'Jaroměř © Z ptačího pohledu', lon: 15.9213639, lat:  50.35619, image: "../foto_praha/storzer_jaromer.jpg"},
                     {name: 'Dobytí Litomyšle (na kresbě "Dobytí Litomyšle Bořkem z Dohalic" Franze Richtera)', lon: 16.3105192, lat: 49.8720311, image: "../foto_praha/storzer_litomysl.jpeg"},
@@ -275,7 +275,7 @@ function showGraph(){
                     {name: 'Varnsdorf © České Švýcarsko', lon: 14.6194058, lat: 50.9124244, image: "../foto_praha/Storzer_varnsdorf.jpg"},
                     {name: 'Hradčany (60. léta 19. stol.) © Zmizelá Praha, sv. 7, 1919', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/hradcany.jpg"},
                     {name: 'Belvedere ve Vídni © Burben, Shutterstock ', lon: 16.380888223299927, lat: 48.1915415, image: "../foto_praha/Storzer_belvedere.jpg"},
-                    {name: 'Příkopy, dnes Na Příkopě (pohlednice z 19. století) © Stará Praha', lon: 14.426636, lat: 50.0861456, image: "../foto_praha/Storzer_prikopy"},
+                    {name: 'Příkopy, dnes Na Příkopě (pohlednice z 19. století) © Stará Praha', lon: 14.426636, lat: 50.0861456, image: "../foto_praha/Storzer_prikopy.jpg"},
                     {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
                     {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
                     {name: 'Žofín, dnes Slovanský ostrov © Copyright Agentura NKL', lon: 14.41303058156899, lat: 50.0784525, image: "../foto_praha/Storzer_zofinskyo.jpg"},
@@ -466,7 +466,31 @@ function showGraph(){
 
                 ]},
                 ]});    
-                break;  
+                break;
+        case "aspoň se pousměj":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: ' Vltava ', lon:  14.4109975, lat:  50.0840539, image: "../foto_praha/vltava.jpg"},
+                    {name: 'Plzeň (obraz z 19. století)', lon: 13.3775249, lat: 49.7477415, image: "../foto_praha/Storzer_plzen.jpg"},
+                    {name: 'Tábor (na vedutě A. Hauna z r. 1860)', lon: 14.6587234, lat: 49.4141533, image: "../foto_praha/storzer_tabor.jpg"},
+                    {name: 'Vršovice © Český svět (1912)', lon: 14.4726067, lat: 50.0721522, image: "../foto_praha/storzer_vrsovice.jpg"},
+                    {name: 'Krkonoše © KRNAP', lon:  15.6478139, lat: 50.6983650 , image: "../foto_praha/storzer_krkonose.jpg"},
+                    {name: 'Nusle (1920) © Světozor', lon: 14.4420511, lat: 50.0567497, image: "../foto_praha/storzer_nusle.jpg"},
+                    {name: 'Žatec (na vedutě Jana Antonína Venuta) © hrady-zriceniny.cz', lon:  13.545952, lat:  50.3274423, image: "../foto_praha/storzer_zatec.jpg"},
+                    {name: 'Stromovka (na obraze V. Barvitia "Čtvrtek ve Stromovce" z r. 1885)', lon: 14.4195550, lat: 50.1070667, image: "../foto_praha/storzer_stromovka.jpg"},
+                    {name: 'Domažlice (na vedutě Jana Antonína Venuta)', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Budapešť © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon:  19.0529844 , lat:  47.4942217, image: "../foto_praha/storzer_budapest.jpg"},
+                    {name: ' Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
+                    {name: 'Příkopy, dnes Na Příkopě (pohlednice z 19. století) © Stará Praha', lon: 14.426636, lat: 50.0861456, image: "../foto_praha/Storzer_prikopy.jpg"},
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Zahrada Kanálka © Facebook', lon: 14.446031, lat: 50.078287, image: "../foto_praha/storzer_kanalka.jpg"},
+                ]},
+                ]});    
+                break; 
         default:
             document.getElementById("gis").src = "";
     }
