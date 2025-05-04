@@ -503,6 +503,32 @@ function showGraph(){
                 ]},
                 ]});    
                 break; 
+        case "Advokát chudých":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Holešovice (pohled na elektrárnu) © Český svět', lon: 14.4355025, lat: 50.1006414, image: "../foto_praha/storzer_holesovice.jpg"},
+                    {name: 'Kanovnická ulice © Wikimedia Commons, VitVit', lon: 14.3940997, lat: 50.0903797, image: "../foto_praha/storzer_holesovice.jpg"},
+                    {name: 'Hradčanské náměstí © Audiala', lon: 14.3961339, lat: 50.0892900, image: "../foto_praha/storzer_hradcanske_n.jpg"},
+                    {name: 'Hradčany (60. léta 19. stol.) © Zmizelá Praha, sv. 7, 1919', lon: 14.4000936, lat: 50.0898689, image: "../foto_praha/hradcany.jpg"},
+                    {name: 'Jelenní příkop (1860) © V. Morstadt', lon: 14.3958342, lat: 50.0913847, image: "../foto_praha/hradcany.jpg"},
+                    {name: 'Loreta (1836) © W. Kadler ', lon:  14.391545496226598 , lat:  50.089281799999995, image: "../foto_praha/loreta.jpg"},
+                    {name: 'Nový Svět (1897) © V. Jansa', lon: 14.3913964, lat: 50.0909353, image: "../foto_praha/novysvet.jpg"},
+                    {name: 'Bitva u Novary (na obraze "Polní maršálek Radecký se svým štábem v bitvě u Novary" Albrechta Adama)', lon:  8.6196550 , lat:  45.4464036, image: "../foto_praha/storzer_novara.jpg"},
+                    {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
+                    {name: 'Nové Město, Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/pohorelec.jpg"},
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
+                    {name: 'Bubeneč (Na obraze "Pohled na Bubeneč" A. Mánesa)', lon: 14.4001203, lat: 50.1011389, image: "../foto_praha/storzer_bubenec.jpeg"},
+                    {name: ' Mariánské hradby, nyní ul. Mariánské hradby (1870) © Wikipedie', lon: 14.4028517, lat:  50.0938675, image: "../foto_praha/marianskehradby.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Prašný most, nyní ul. U Prašného mostu (1885) © Plán Prahy s okolím',  lon: 14.3988406, lat: 50.0921997, image: "../foto_praha/prasnymost.jpg"}
+                ]},
+                ]});    
+                break; 
         default:
             document.getElementById("gis").src = "";
     }
