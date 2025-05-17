@@ -1,0 +1,462 @@
+páter schneider -> studenti (narrator, přítel)
+
+přítel -> do éteru (schneider, studenti)
+schneider -> studenti
+schneider -> studenti
+
+přítel -> schneider
+schneider -> studenti
+narrator -> schneider
+schneider -> narrator
+
+schneider -> narrator
+schneider -> narrator
+
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+schneider -> narrator
+narrator -> schneider
+schneider -> narrator
+narrator -> schneider
+schneider -> narrator
+narrator -> schneider
+narrator -> schneider
+schneider -> narrator
+narrator -> schneider
+
+schneider -> přítel
+schneider -> přítel
+přítel -> schneider
+schneider -> přítel
+
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+
+přítel -> narrator
+
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+přítel -> narrator:
+	schneider -> přítel
+	schneider -> přítel
+
+	schneider -> přítel
+	přítel -> schneider
+	schneider -> přítel
+	přítel -> schneider
+	schneider -> přítel
+	přítel -> schneider
+
+	schneider -> přítel
+	schneider -> přítel
+	schneider -> přítel
+	schneider -> přítel
+
+	schneider -> přítel
+	schneider -> přítel
+	schneider -> přítel
+
+	schneider -> přítel
+	schneider -> přítel
+	schneider -> přítel
+
+
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+
+narrator -> přítel
+přítel -> narrator
+
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+přítel -> narrator
+
+
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+přítel -> narrator:
+	otec -> pěstounka
+
+	otec -> pěstounka
+	přítel -> pěstounka
+	pěstounka -> přítel
+
+	pěstounka -> důstojník
+	důstojník -> pěstounka
+	
+	pěstounka -> stařena
+	stařena -> pěstounka
+	pěstounka -> stařena
+	stařena -> pěstounka
+	stařena -> pěstounka
+
+
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator:
+	přítel -> matka (vyhalucinovaná)
+	matka -> přítel
+	
+	stařec -> přítel
+	stařec -> přítel
+	stařec -> přítel
+	přítel -> stařec
+	stařec -> přítel
+	stařec -> přítel
+
+	stařec -> přítel
+	stařec -> přítel
+	stařec -> přítel
+
+	stařec -> přítel
+	stařec -> přítel:
+		matka -> stařec
+		stařec -> matka
+
+	přítel-> stařec
+	stařec -> přítel
+
+	stařec -> přítel:
+		matka -> stařec
+
+	stařec -> přítel
+
+	stařec -> přítel:
+		žid (přítel starcův) -> stařec (dopisem)
+
+		žid -> stařec (opět skrze dopis)
+
+		stařec -> kočí
+
+		(vzbouřenci -> sedláci)
+
+		stařec -> kočí
+
+
+
+		"hrubý hlas" (jeden z několika mužů na cestě) -> stařec
+		stařec -> hlas
+		hlas -> stařec
+
+		jeden (jiný) z mužů -> hlas (první muž)
+		stařec -> muži
+
+
+
+		(tentokrát zase jiných "několik mužů"...)
+		stařec -> muži
+		jeden z mužů -> stařec
+		stařec -> muži
+		stařec -> muži
+		jeden z mužů -> stařec
+
+
+
+		"kdosi" -> žid(?)
+		"kdosi" -> žid(?)
+		stařec -> sedláci
+		stařec -> sedláci
+		stařec -> sedláci
+		jeden ze sedláků -> stařec
+		stařec -> sedláci
+		sedláci -> stařec
+		stařec -> sedláci
+
+		žid -> sedláci
+		žid -> sedláci
+		jeden ze sedláků -> žid
+		stařec -> sedláci
+		stařec -> sedláci
+
+		stařec -> žid, židova dcera
+
+
+
+		stařec -> Bůh (v modlitbě...  počítá se to?)
+
+
+		stařec -> vojáci
+		vojáci -> stařec
+		stařec -> vojáci
+		
+		setník -> stařec
+
+	stařec -> přítel
+	stařec -> přítel
+
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+
+přítel -> narrator (v dopise)
+přítel -> narrator (v dopise)
+
+přítel -> narrator (v dopise):
+	desátník -> vojíni, přítel:
+		desátník -> sedláci
+		sedláci -> desátník
+		desátník -> sedláci
+
+	přítel -> vojíni
+	vojíni -> přítel
+
+	přítel -> desátník
+	desátník -> přítel
+	přítel -> desátník
+	desátník -> přítel
+	přítel -> desátník
+	přítel -> desátník
+	přítel -> desátník
+	desátník -> přítel
+
+	vojíni -> přítel
+	přítel -> vojíni
+	vojíni -> přítel
+
+	přítel -> vojíni
+	vojíni -> přítel
+	přítel -> vojíni
+	vojíni -> přítel
+	přítel -> vojíni
+	vojíni -> přítel
+	přítel -> vojíni
+	vojíni -> přítel
+
+	jeptiška -> přítel
+	přítel -> jeptiška
+	jeptiška -> přítel
+
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+
+	abatyše -> jeptiška
+
+	abatyše -> jeptiška
+
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+	abatyše -> přítel
+	přítel -> abatyše
+
+raněný důstojník -> narrator
+
+narrator -> pruský vojín
+pruský vojín -> narrator
+narrator -> pruský vojín
+pruský vojín -> narrator
+narrator -> pruský vojín
+pruský vojín -> narrator
+narrator -> pruský vojín
+pruský vojín -> narrator
+narrator -> pruský vojín
+pruský vojín -> narrator
+
+narrator -> pruský poddůstojník
+pruský poddůstojník -> narrator
+narrator -> pruský poddůstojník
+pruský poddůstojník -> narrator
+narrator -> pruský poddůstojník
+pruský poddůstojník -> narrator
+narrator -> pruský poddůstojník
+pruský poddůstojník -> narrator
+narrator -> pruský poddůstojník
+pruský poddůstojník -> narrator
+narrator -> pruský poddůstojník
+
+pruský poddůstojník -> narrator
+
+
+přítel -> narrator
+narrator -> přítel
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+narrator -> přítel
+
+(narrator -> pruští vojíni)
+
+vojenský lékař -> narrator
+
+
+
+narrator -> kostelník
+kostelník -> narrator
+narrator -> kostelník
+kostelník -> narrator
+narrator -> kostelník
+kostelník -> narrator
+narrator -> kostelník
+kostelník -> narrator
+narrator -> kostelník
+
+narrator -> dva důstojníci, vojenský lékař
+vojenský lékař -> narrator
+narrator -> vojenský lékař
+vojenský lékař -> narrator
+narrator -> vojenský lékař
+vojenský lékař -> narrator
+
+narrator -> vojenský lékař
+vojenský lékař -> narrator
+
+
+přítel -> narrator (v dopise)
+
+schneider -> Ruth (v dopise)
+
+
+
+
+
+
+_____________________________________
+
+POZN.:
+
+Páter Schneider = schneider, stařec
+Ruth = židova dcera
+
++ na několika místech je tu vždycky skupina postav, ke které je mluveno, ale z níž pak často odpovídá jen jednotlivec. tohle by asii chtělo nějak probrat, jestli by s tím nešlo nějak specificky nakládat...
