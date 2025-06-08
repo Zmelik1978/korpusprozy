@@ -1266,7 +1266,7 @@ function showGraph() {
                       {id: 'sedláci na cestě', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'skupina mužů 1', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'skupina mužů 2', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
-                      {id: 'sedláci 1', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
+                      {id: 'sedláci', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'jeden ze sedláků', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'vojáci', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'setník', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
@@ -1279,7 +1279,8 @@ function showGraph() {
                       {id: 'pruští vojíni', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'vojenský lékař', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
                       {id: 'kostelník', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
-                      {id: 'pruští důstojníci', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2},
+                      {id: 'pruští důstojníci', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2}
+                      {id: 'pruský poddůstojník', marker: {radius: 20, lineWidth: linewidth, lineColor: line}, color: postava2}
                       ]
                   }
                 ]
