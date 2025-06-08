@@ -1080,7 +1080,6 @@ function showGraph() {
                     ["skupina mužů 1 -> páter Schneider"],
                     ["páter Schneider -> skupina mužů 1"],
                     ["skupina mužů 1 -> páter Schneider"],
-                    //["skupina mužů 1 -> skupina mužů 1"], ???? (tady mluvili mezi sebou, tak těžko říct...)
                     ["páter Schneider -> skupina mužů 1"],
                     ["páter Schneider -> skupina mužů 2"],
                     ["skupina mužů 2 -> páter Schneider"],
@@ -1103,7 +1102,6 @@ function showGraph() {
                     ["páter Schneider -> sedláci"],
                     ["páter Schneider -> žid"],
                     ["páter Schneider -> Ruth"],
-                    // ["páter Schneider -> Bůh"], (modlitba)
                     ["páter Schneider -> vojáci"],
                     ["vojáci -> páter Schneider"],
                     ["páter Schneider -> vojáci"],
