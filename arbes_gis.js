@@ -528,6 +528,47 @@ function showGraph(){
                     {name: 'Prašný most, nyní ul. U Prašného mostu (1885) © Plán Prahy s okolím',  lon: 14.3988406, lat: 50.0921997, image: "../foto_praha/prasnymost.jpg"}
                 ]},
                 ]});    
+                break;
+        case "Agitátor":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Holešovice (pohled na elektrárnu) © Český svět', lon: 14.4355025, lat: 50.1006414, image: "../foto_praha/storzer_holesovice.jpg"},
+                    {name: 'Hostinec U Montágů (dnes Šternberský palác)', lon: 14.4044319, lat: 50.0887039, image: "../foto_praha/storzer_u_montagu.jpg"},
+                    {name: 'Ostruhová ul., nyní Nerudova (19. stol.) © V. Jansa', lon: 14.3995256, lat: 50.0885142, image: "../foto_praha/ostruhova.jpg"},
+                    {name: 'Strahov (1830) © V. Morstadt', lon: 14.3828081, lat: 50.0815358, image: "../foto_praha/strahov.jpg"},
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
+                    {name: 'Vinohrady © Praha 2', lon: 14.4380594, lat: 50.0754556, image: "../foto_praha/storzer_vinohrady.jpg"},
+                    {name: ' Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
+                    {name: 'Berounka © Jiří Jiroušek', lon: 13.7862542, lat: 49.9719008, image: "../foto_praha/storzer_berounka.jpg"},
+                    {name: 'Dobřichovice © Město Dobřichovice', lon: 14.2746936, lat: 49.9274931, image: "../foto_praha/storzer_dobrichovice.jpg"},
+                    {name: 'Řevnice © Wikimedia Commons, Pan.Kaja', lon:  14.2358928 , lat: 49.9139478, image: "../foto_praha/storzer_revnice.jpg"},
+                    {name: 'Mníšek pod Brdy (na vedutě Jana Antonína Venuta) © hrady-zriceniny.cz', lon: 14.2617575, lat: 49.8664967, image: "../foto_praha/storzer_mnisek.jpg"},
+                    {name: 'Újezd (1891) © Světozor', lon: 14.4045214, lat: 50.0821956, image: "../foto_praha/ujezd.jpg"},
+                    {name: ' Mostecká ul. (1901) © V. Jansa', lon:  14.4060869, lat:  50.0873433, image: "../foto_praha/mosteckaulice.jpg"},
+                    {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
+                    {name: 'Holešovice (pohled na elektrárnu) © Český svět', lon: 14.4355025, lat: 50.1006414, image: "../foto_praha/storzer_holesovice.jpg"},
+                    {name: 'Karlštejn před přestavbou (Karel Bellmann, 1885)', lon:  14.1882903 , lat:  49.9391167, image: "../foto_praha/storzer_karlstejn.jpg"},
+                    {name: 'Všenory (1911) © Všenory', lon: 14.3039225, lat: 49.9288344, image: "../foto_praha/storzer_vsenory.jpg"},
+                    {name: 'Mokropsy © Wikimedia Commons, Šjů', lon: 14.3328953, lat: 49.9451792, image: "../foto_praha/storzer_mokropsy.jpg"},
+                    {name: 'Karlík (rekonstrukce hradu podle T. Durdíka) © Jan Heřman', lon: 14.2595078, lat: 49.9354019, image: "../foto_praha/storzer_karlik.jpg"},
+                    {name: 'Lom Velká Amerika u obce Mořina © Hana Venglová', lon: 14.2086319, lat: 49.9528358, image: "../foto_praha/storzer_mokrina.jpeg"},
+                    {name: 'Curych (19. století) © 2015 - 2025 MonoVisions Black & White Photography Magazine', lon: 8.5410422, lat: 47.3744489, image: "../foto_praha/storzer_curych.jpg"},
+                    {name: 'Havlíčkův Brod (na vedutě Jana Antonína Venuta)', lon: 15.5806853, lat: 49.6078489, image: "../foto_praha/storzer_havl_brod.jpg"},
+                    {name: 'Paříž na konci 19. století (autorem obrazu je Camille Pissarro)', lon: 2.3483915, lat: 48.8534951, image: "../foto_praha/Storzer_pariz.jpg"},
+                    {name: 'Divoká Šárka (na litografii J. Wenziga z r. 1857)', lon: 14.3200958, lat: 50.0983128, image: "../foto_praha/storzer_sarka.jpg"},
+                    {name: 'Bavorsko (na pohlednici Mnichov koncem 19. století) © Library of Congress, Prints & Photographs Division, [reproduction number, e.g., LC-DIG-ppmsca-12345]', lon: 11.5753822, lat: 48.1371078, image: "../foto_praha/storzer_mnichov.jpg"},
+                    {name: 'Bádensko (na fotografii Badenwiler koncem 19. století) © 2015 - 2025 MonoVisions Black & White Photography Magazine', lon: 8.1390286, lat: 48.19283690, image: "../foto_praha/storzer_baden.jpg"},
+                    {name: 'Zbraslav (na vedutě Jana Antonína Venuta klášter) © hrady-zriceniny.cz', lon: 14.3932561, lat: 49.9752750, image: "../foto_praha/storzer_zbraslav.jpg"},
+                    {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
+                    {name: 'Budapešť © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon:  19.0529844 , lat:  47.4942217, image: "../foto_praha/storzer_budapest.jpg"}
+
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                ]},
+                ]});    
                 break; 
         default:
             document.getElementById("gis").src = "";
