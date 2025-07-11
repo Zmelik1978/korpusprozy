@@ -1,0 +1,319 @@
+přítel -> ženich
+žába -> hosté
+
+
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+novomanžel -> novomanželka
+novomamnželka -> novomanžel
+
+přítel -> novomanžel
+novomanžel -> přítel
+přítel -> novomanžel
+novomanžel -> přítel
+přítel -> novomanžel
+novomanžel -> přítel
+přítel -> novomanžel
+
+narrator -> Napoleon
+
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+přítel (v dopise) -> narrator
+narrator (v dopise) -> přítel
+přítel (v dopise) -> narrator
+
+dopis (od koho?) -> narrator
+
+
+
+narrator -> farář
+farář -> narrator
+farář -> narrator
+narrator -> farář
+farář -> narrator
+narrator -> farář
+farář -> narrator
+narrator -> farář
+farář -> narrator
+
+
+
+
+narrator -> přítel
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+
+
+
+narrator -> portýr
+portýr -> narrator
+narrator -> portýr
+portýr -> narrator
+narrator -> portýr
+portýr -> narrator
+narrator -> portýr
+portýr -> narrator
+narrator -> portýr
+portýr -> narrator
+narrator -> portýr
+
+
+
+
+
+lokaj -> narrator
+narrator -> lokaj
+lokaj -> narrator
+narrator -> lokaj
+lokaj -> narrator
+narrator -> lokaj
+lokaj -> narrator
+narrator -> lokaj
+lokaj -> narrator
+narrator -> lokaj
+
+
+
+
+doktor Sperlich -> hosté (pohřbu/oslavy)
+
+mrtvola -> hosté
+
+hosté -> přítel
+
+přítel -> hosté
+přítel -> hosté
+přítel -> hosté
+
+jeden z hostů (doktor) -> hosté
+
+přítel -> hosté
+hosté -> přítel
+
+stůl lékařů -> přítel
+stůl anatomů -> přítel
+stůl fysiologů -> přítel
+stůl právníků -> přítel
+stůl filosofů -> přítel
+stůl theologů -> přítel
+
+přítel -> hosté
+
+stůl theologů -> přítel
+
+přítel -> hosté
+
+stůl theologů -> přítel
+
+přítel -> hosté
+
+stůl filosofů -> přítel
+
+přítel -> hosté
+
+stůl úředníků -> přítel
+stůl filosofů -> přítel
+stůl theologů -> přítel
+
+stůl umělců -> přítel
+stůl literátů -> přítel
+stůl právníků -> přítel
+stůl lékařů -> přítel
+
+přítel -> hosté
+
+stůl právníků -> přítel
+
+přítel -> hosté
+
+stůl pedagogů -> přítel
+
+přítel -> hosté
+
+stůl lékařů -> přítel
+
+přítel -> hosté
+
+hosté -> přítel
+přítel -> hosté
+
+arcibiskup -> přítel
+arcibiskup -> hosté
+
+přítel -> hosté
+hosté -> přítel
+
+stůl umělců -> přítel
+stůl učenců -> přítel
+
+přítel -> hosté
+
+stůl literátů -> přítel
+
+přítel -> hosté
+
+stůl literátů -> přítel
+
+přítel -> hosté
+
+stůl šlechticů -> přítel
+
+přítel -> hosté
+
+stůl důstojníků -> přítel
+
+přítel -> hosté
+neznámý hlas -> přítel
+přítel -> hosté
+neznámý hlas -> přítel
+hosté -> přítel
+
+přítel -> hosté
+hosté -> přítel
+
+přítel -> hosté
+
+hosté -> přítel
+přítel -> hosté
+
+hosté -> přítel
+přítel -> hosté
+
+hosté -> přítel
+přítel -> hosté
+
+přítel -> hosté
+
+přítel -> hosté
+
+neznámý hlas -> přítel
+přítel -> hosté
+
+hosté -> přítel
+neznámý hlas -> přítel
+přítel -> hosté
+
+neznámý hlas -> přítel
+přítel -> hosté
+
+přítel -> hosté
+
+přítel -> hosté
+hosté -> přítel
+narrator -> hosté
+
+přítel -> hosté
+
+
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+
+narrator -> přítel
+přítel -> narrator
+
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+
+narrator -> přítel
+přítel -> narrator
+
+narrator -> přítel
+
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+narrator -> přítel
+
+přítel -> narrator
+přítel -> narrator
+přítel -> narrator
+přítel -> narrator
+narrator -> přítel
+přítel -> narrator
+
+
+matka -> narrator
+narrator -> matka
+matka -> narrator
+matka -> narrator
+
+
+_____________________________
+pozn.:
+
+nevím, jak to udělat s postavou "jeden z hostů (doktor)"...  můžu z toho udělat prostě jen "doktor"?
+
+co se týče těch stolů, to mě strašně irituje jako názvy postav, ale jiným způsobem se to asi zpracovat nedá a Arbes tam s tím prostě takhle pracuje, takže s tím asi nic neudělám
+
+řádek 54 bych asi vymazal, protože jde o ten dopis, co mu přišel z fronty o přítelově smrti, takže byť jde vlastně o interakci narratora a někoho z armády, kdo ho o tom chtěl informovat, asi to ve výsledku není tak signifikantní a hlavně stejně nevíme, kdo tgo vlastně psal, takže mi přijde asi nejpraktičtější to prostě vypustit, nicméně to radši nechávám alespoň v tomhle txt souboru, ať se to pak dá kdyžtak zpětně dohledat a pracovat s tím...
