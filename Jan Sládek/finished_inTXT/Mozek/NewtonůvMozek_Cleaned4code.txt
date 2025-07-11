@@ -1,5 +1,5 @@
 ["přítel", "ženich"],
-["žába", "hosté"],
+["žába", "hosté svatby"],
 ["přítel", "narrator"],
 ["narrator", "přítel"],
 ["přítel", "narrator"],

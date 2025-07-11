@@ -1289,7 +1289,7 @@ function showGraph() {
    case "mozek":
       Highcharts.chart('container', {chart: {type: 'networkgraph',marginTop: 80},title: {text: 'Newtonův mozek'}, tooltip: {formatter: function () {let info; switch (this.color) { case vypravec: console.log(vypravec); info = " - homodiegetic"; break; case postava: console.log(postava); info = " - character"; break; case postava2: console.log(postava2); info = " - character"; break;} return '<b>' + this.key + '</b> ' + info; }}, plotOptions: {networkgraph: {keys: ['from', 'to'], layoutAlgorithm: {gravitationalConstant: 0.0625, enableSimulation: true, integration: 'verlet', linkLength: 200}}},  series: [{link: {width: 1.5, dashStyle: 'solid'}, marker: {radius: 13 }, dataLabels: {enabled: true, linkFormat: '', allowOverlap: true, style: {textOutline: false}}, data: [
                       ["přítel", "ženich"],
-                      ["žába", "hosté"],
+                      ["žába", "hosté svatby"],
                       ["přítel", "narrator"],
                       ["narrator", "přítel"],
                       ["přítel", "narrator"],
@@ -1540,6 +1540,7 @@ function showGraph() {
                   {id: 'lokaj',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                   {id: 'doktor',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                   {id: 'hosté',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
+                  {id: 'hosté svatby',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                   {id: 'farář',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                   {id: 'doktor Sperlich',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                   {id: 'arcibiskup',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
