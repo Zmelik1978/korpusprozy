@@ -288,7 +288,7 @@ function showGraph(){
                     {name: 'Plzeň (obraz z 19. století)', lon: 13.3775249, lat: 49.7477415, image: "../foto_praha/Storzer_plzen.jpg"},
                     {name: 'Domažlice (na vedutě Jana Antonína Venuta)', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
                     {name: 'Brod nad Lesy, německy Furth im Wald © Andi-Furth, Wikimedia Commons', lon: 12.8452826, lat: 49.3081639, image: "../foto_praha/Storzer_furth.jpg"},
-                    {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
+                    {name: 'Beroun © hrady-zriceniny.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
                     {name: 'Rokycany © Město Rokycany', lon: 13.594778, lat: 49.7428813, image: "../foto_praha/Storzer_rokycany.jpg"}
                 // neexistující místa
                 ]},
@@ -369,7 +369,7 @@ function showGraph(){
                     {name: ' Smíchov (19. stol.) © V. Morstadt', lon:  14.4048437 , lat:  50.0749464, image: "../foto_praha/smichov.jpg"},
                     {name: 'Košíře (1920) © Augustin Kočí', lon: 14.362062, lat: 50.0670831, image: "../foto_praha/Storzer_kosire.jpg"},
                     {name: 'Jičín © Město Jičín', lon:  15.3516528 , lat:  50.4370452, image: "../foto_praha/storzer_jiicn.jpg"},
-                    {name: 'Beroun © tipynavylet.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
+                    {name: 'Beroun © hrady-zriceniny.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"},
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
@@ -569,7 +569,31 @@ function showGraph(){
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
                 ]},
                 ]});    
-                break; 
+                break;
+        case "Anděl míru":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Mauth © Michal Bártík', lon: 13.5837089, lat: 48.8889083, image: "../foto_praha/storzer_mauth.jpg"},
+                    {name: 'Zlatá stezka © Andreas Hirsch', lon: 13.5571119, lat: 49.0649539, image: "../foto_praha/storzer_zlata_s.png"},
+                    {name: 'Domažlice (na vedutě Jana Antonína Venuta)', lon: 12.9298338, lat: 49.4407069, image: "../foto_praha/Storzer_domazlice.jpg"},
+                    {name: 'Plzeň (obraz z 19. století)', lon: 13.3775249, lat: 49.7477415, image: "../foto_praha/Storzer_plzen.jpg"},
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Vídeň, pohled na Hofburg z 19. století © Schloß Schönbrunn Kultur- und Betriebsges.m.b.H.', lon: 16.0316259, lat: 49.3921258, image: "../foto_praha/storzer_wien.jpg"},
+                    {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
+                    {name: ' Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
+                    {name: 'Beroun © hrady-zriceniny.cz', lon: 14.0733907, lat: 49.9640292, image: "../foto_praha/Storzer_beroun.jpg"}, 
+                    {name: 'Lipsko (1891) © Stadtarchiv Leipzig', lon: 12.3747328, lat: 51.3406319, image: "../foto_praha/storzer_leipzig.jpg"},
+                    {name: 'Hamburg na obraze "Bleichenbrückenfleet" A. Stellinga (1885) ', lon: 10.0006539, lat: 53.5503408, image: "../foto_praha/storzer_hamburg.jpg"},
+                    {name: 'Grafenau © Aconcaguas, Wikimedia Commons', lon: 13.3968664, lat: 48.8583, image: "../foto_praha/storzer_grafenau.jpg"},
+                    {name: 'Paříž na konci 19. století (autorem obrazu je Camille Pissarro)', lon: 2.3483915, lat: 48.8534951, image: "../foto_praha/Storzer_pariz.jpg"},
+                    {name: 'Mnichov koncem 19. století © Library of Congress, Prints & Photographs Division, [reproduction number, e.g., LC-DIG-ppmsca-12345]', lon: 11.5753822, lat: 48.1371078, image: "../foto_praha/storzer_mnichov.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                ]},
+                ]});    
+                break;
         default:
             document.getElementById("gis").src = "";
     }
