@@ -1668,7 +1668,7 @@ function showGraph() {
                         ["narrator", "Eldora"],
                         ["Eldora", "narrator"],
                         ["narrator", "Eldora"],
-                        ["Eldora", "narrator:"],
+                        ["Eldora", "narrator"],
                         ["Eldořin otec", "Carl"],
                         ["Carl", "Eldořin otec"],
                         ["Eldořin otec", "Carl"],
