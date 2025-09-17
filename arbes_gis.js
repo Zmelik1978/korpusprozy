@@ -644,6 +644,51 @@ function showGraph(){
                 ]},
                 ]});    
                 break;
+        case "Duhokřídlá Psýché":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/pohorelec.jpg"},
+                    {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
+                    {name: 'Ostruhová ul., nyní Nerudova (19. stol.) © V. Jansa', lon: 14.3995256, lat: 50.0885142, image: "../foto_praha/ostruhova.jpg"},
+                    {name: 'Kamenný most, nyní Karlův (40. léta 19. stol.) © Zmizelá Praha, sv. 7, 1919', lon: 14.4110678, lat: 50.0864756, image: "../foto_praha/karluvmost.jpg"},
+                    {name: 'Karlova ul. (1897) © V. Jansa', lon:  14.4166053, lat:  50.0861025, image: "../foto_praha/karlovaulice.jpg"},
+                    {name: 'Řetězový most (1914) © Zmizelá Praha, sv. 7, 1919', lon: 14.4108800, lat: 50.0813536, image: "../foto_praha/retezovymost.jpg"},
+                    {name: 'Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
+                    {name: 'Loretánské náměstí © Kudy z nudy', lon: 14.391220520837996, lat: 50.089355, image: "../foto_praha/Storzer_Loretánské náměstí.jpg"},
+                    {name: 'Vinohrady © Praha 2', lon: 14.4380594, lat: 50.0754556, image: "../foto_praha/storzer_vinohrady.jpg"},
+                    {name: 'Vyšehrad s kostelem (1872) © Zmizelá Praha, sv. 4, 1919', lon: 14.4178128,lat: 50.0643569, image: "../foto_praha/vysehradskykostel.jpg"},
+                    {name: ' Petřín (1830) © V. Morstadt', lon:  14.3949292 , lat:  50.0816583, image: "../foto_praha/petrin.jpg"},
+                    {name: 'Strahov (1830) © V. Morstadt', lon: 14.3828081, lat: 50.0815358, image: "../foto_praha/strahov.jpg"},
+                    {name: 'Malá Strana (1866) © Zmizelá Praha, sv. 5, 1919', lon:  14.4048224 , lat:  50.0871582, image: "../foto_praha/malastrana.jpg"},
+                    {name: 'Na Františku © EPOQUE 1900', lon: 14.4249419, lat: 50.0930397, image: "../foto_praha/storzer_na_frantisku.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"},
+                    {name: 'Pohořelec', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Černínská kasárna, dnes Černínský palác', lon: 14.3905650, lat: 50.0887617, image: "../foto_praha/storzer_cer_kasarna.jpeg"}
+                ]},
+                ]});    
+                break;
         default:
             document.getElementById("gis").src = "";
     }
