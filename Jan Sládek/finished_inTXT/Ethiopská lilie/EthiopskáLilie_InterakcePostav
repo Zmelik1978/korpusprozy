@@ -1,0 +1,886 @@
+narrator -> Hugo (synovec)
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+Hugo -> narrator
+Hugo -> narrator
+Hugo -> narrator
+
+Hugo -> narrator
+narrator -> Hugo
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+Hugo -> narrator
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+
+
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+
+učitel -> mladý Višín
+kupec Višín -> učitel
+učitel -> mladý Višín
+mladý Višín -> učitel
+učitel -> mladý Višín
+mladý Višín -> kupec Višín
+učitel -> mladý Višín
+mladý Višín -> učitel
+
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+učitel -> kupec Višín
+kupec Višín -> učitel
+
+
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+narrator -> Hugo:
+	učitel -> děti (+ narrator)
+	učitel -> děti	
+	učitel -> děti
+	žák -> učitel
+	učitel -> žák
+	žák -> učitel
+	učitel -> děti
+	učitel -> děti
+
+Hugo -> narrator
+
+narrator -> Hugo:
+	učitel -> děti
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+narrator -> Hugo:
+	matka -> narrator
+	narrator -> matka
+	matka -> narrator
+	narrator -> matka
+	matka -> narrator
+
+	učitel -> katecheta
+	katecheta -> učitel
+
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+
+Hugo (v dopise) -> narrator
+
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+
+dívka -> Hugo
+Hugo -> dívka
+dívka -> Hugo
+Hugo -> dívka
+dívka -> Hugo
+Hugo -> dívka
+dívka -> Hugo
+Hugo -> dívka
+dívka -> Hugo
+Hugo -> dívka
+dívka -> Hugo
+
+
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+Hugo -> narrator:
+	dívka (v dopise) -> Hugo
+	dívka (v dopise) -> Hugo
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+Hugo -> narrator:
+	Hugo -> Otylka (dívka)
+	Otylka -> Hugo
+	Hugo -> Otylka
+	Otylka -> Hugo
+
+	Hugo -> Otylka
+	Otylka -> Hugo
+	Hugo -> Otylka
+
+Hugo -> narrator
+narrator -> Hugo
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+Otylka (v dopise) -> Hugo
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+
+
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+
+
+narrator -> bývalý spolužák
+bývalý spolužák -> narrator
+
+
+
+narrator -> učitel
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+učitel -> narrator
+
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> Hugo
+Hugo -> učitel
+narrator -> Hugo
+Hugo -> narrator
+učitel -> Hugo
+Hugo -> učitel
+Hugo -> učitel
+narrator -> Hugo
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+Hugo -> učitel
+učitel -> Hugo
+Hugo -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+učitel -> narrator
+učitel -> narrator
+učitel -> narrator
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+Hugo -> hoch (přinášející dopis od Otylky)
+hoch -> Hugo
+Hugo -> hoch
+hoch -> Hugo
+
+Hugo -> (mrtvá) Otylka
+
+
+
+doktor -> narrator
+narrator -> doktor
+doktor -> narrator
+
+
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+
+učitel -> narrator:
+	učitelův otec -> učitelův dědeček
+	učitelův dědeček -> učitelův otec
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+
+učitel -> narrator:
+	učitel -> kočí
+	kočí -> učitel
+	učitel -> kočí
+	kočí -> učitel
+	učitel -> dítě (Otylka)
+
+	učitel -> mladý Višín
+	mladý Višín -> učitel:
+		Višínova matka -> Višínova teta
+		Višínova teta -> Višínova matka
+		Višínova matka -> Višínova teta
+
+		mladý Višín -> Višínova teta
+
+		mladý Višín -> Otylka
+
+narrator -> učitel
+učitel -> narrator:
+	učitel -> hostinský
+
+	Otylka -> učitel
+
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+
+učitel -> narrator:
+	pán (respektive "obstarožní pán") -> dívčina
+	pán -> rychtář
+	učitel -> pán
+	rychtář -> (učitel ->) pán:
+		francozský vojín / otec dívčiny -> dívčina
+	učitel -> dívčina
+	dívčina -> učitel
+
+
+učitel -> narrator
+učitel -> narrator
+narrator -> učitel
+
+učitel -> narrator:
+	dívčina (v dopise) -> učitel
+	
+učitel -> narrator
+učitel -> Ethiopská lilie
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+učitel -> narrator
+
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+
+
+
+učitel -> narrator
+narrator -> učitel
+učitel -> narrator
+
+
+učitel -> narrator, Hugo
+
+
+
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+Hugo -> narrator
+narrator -> Hugo
+
+
+
+narrator -> hrobník (bývalý spolužák)
+hrobník -> narrator
+hrobník -> narrator
+narrator -> hrobník
+hrobník -> narrator
+narrator -> hrobník
+hrobník -> narrator
+hrobník -> narrator
+
+
+hrobník -> narrator, Hugo
+narrator -> hrobník
+narrator -> hrobník
+narrator -> hrobník
+hrobník -> narrator
+Hugo -> hrobník
+narrator -> hrobník
+hrobník -> narrator
+
+
+
+
+
+
+
+
+_______________________________________
+
+pozn.:
+dívka == Otylka
+pán = obstarožní pán
+mladý Višín = Višín

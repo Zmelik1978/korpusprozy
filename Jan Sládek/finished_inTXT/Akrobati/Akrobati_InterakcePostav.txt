@@ -1,0 +1,386 @@
+narrator -> (žalářníkův) kocour
+		//počítá se to? xD
+
+narrator -> kocour
+narrator -> kocour
+
+
+narrator -> doktor
+doktor -> narrator
+narrator -> doktor
+
+
+//žena (?) -> Pavel (kdo je Pavel?)
+
+dívka -> narrator (zpívá "do éteru" - dá se to počítat??)
+
+
+narrator -> žalářník
+žalářník -> narrator
+
+narrator -> kocour
+
+dívka (v dopise přes kocoura) -> narrator
+		//> dívka se jmenuje Eldora
+
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+...
+//(hromada dopisů, nespecifikovaný počet)
+
+
+narrator -> Eldora
+narrator -> Eldora
+Eldora -> narrator
+
+
+žalářník -> narrator
+
+
+Eldora -> narrator (tentokrát už poprvé naživo, nikoli v dopise)
+narrator -> Eldora
+Eldora -> narrator
+
+Eldora -> narrator
+
+
+přednosta stanice -> známý
+známý -> přednosta stanice
+přednosta stanice -> známý
+známý -> přednosta stanice
+přednosta stanice -> známý
+známý -> přednosta stanice
+přednosta stanice -> známý
+známý -> přednosta stanice
+přednosta stanice -> známý
+známý -> přednosta stanice
+přednosta stanice -> známý
+známý -> přednosta stanice
+přednosta stanice -> známý
+
+
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+narrator -> žínka
+žínka -> narrator
+
+
+
+(divný) muž -> Eldora
+
+podkoní -> obecenstvo v cirku (narrator, Eldora, muž)
+
+
+Eldora -> akrobat
+muž (Eldořin společník) -> Eldora
+
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+
+muž (Eldořin manžel, doktor Stein) -> narrator
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+
+Eldora -> narrator
+
+Eldora -> narrator
+Eldora -> doktor Stein
+
+doktor Stein -> Eldora
+
+Eldora -> narrator
+Eldora -> doktor Stein
+
+doktor Stein -> narrator
+
+
+
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+
+
+doktor Stein -> narrator
+doktor Stein -> narrator
+
+
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+
+
+
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+
+Eldora -> narrator:
+	Orang-Utang -> (divadelní ředitel) Carl
+	Carl -> Orang-Utang
+	Orang-Utang -> Carl
+	Carl -> Orang-Utang
+
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+
+Eldora -> narrator
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+Eldora -> narrator
+narrator -> Eldora
+
+
+
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+Eldora -> narrator
+
+
+
+narrator -> žínka
+žínka -> narrator
+žínka -> narrator
+
+narrator -> žínka
+žínka -> narrator
+
+narrator -> Eldora
+Eldora -> narrator
+
+
+
+akrobat (v dopise) -> Eldora
+Eldora -> posel
+
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+
+narrator -> Eldora
+Eldora -> narrator:
+	lékař -> akrobat
+
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+
+
+
+akrobat -> Eldora
+Eldora -> akrobat
+akrobat -> Eldora
+
+Eldora -> narrator
+Eldora -> akrobat
+akrobat -> Eldora
+Eldora -> narrator
+
+narrator -> Eldora
+Eldora -> narrator
+
+akrobat -> (Eldora ->) narrator
+
+
+
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+
+Eldora -> narrator:
+	lékař -> akrobat
+	akrobat -> Eldora
+
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+Eldora -> narrator
+kocour -> narrator
+
+
+
+
+Eldora (v dopise) -> narrator
+
+doktor Stein -> narrator
+narrator -> doktor Stein
+doktor Stein -> narrator
+narrator -> doktor Stein
+doktor Stein -> narrator
+narrator -> doktor Stein
+doktor Stein -> narrator
+narrator -> doktor Stein
+	
+
+
+
+
+hosté (v hospůdce) -> narrator
+
+hosté -> narrator
+narrator -> hosté
+hostinská -> narrator
+
+hosté -> narrator
+narrator -> hosté
+
+
+
+hostinská -> narrator
+narrator -> hostinská
+hostinská -> narrator
+narrator -> hostinská
+hostinská -> narrator
+
+narrator -> výroste
+výrostek -> narrator
+
+malý hoch -> obecenstvo (+ narrator)
+
+akrobat -> narrator
+
+
+
+Eldora -> akrobat
+
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+Eldora -> narrator
+narrator -> Eldora
+
+Eldora -> narrator
+	Orang-Utang -> Eldora
+
+Eldora -> kocour
+akrobat -> kocour
+
+Eldora -> narrator
+
+
+
+
+
+
+_____________________________
+
+pozn.:
+
+dívka = Eldora
+muž = doktor Stein
+Orang-Utang = Eldořin otec
+
++ kocoura počítám jako postavu, protože ty interakce tu probíhají, byť z jeho strany ne slovně, ale jsou podle mě dostatečně zásadní, aby byl alespoň vedlejší postava...
