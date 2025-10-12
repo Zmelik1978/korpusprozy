@@ -2572,7 +2572,8 @@ function showNetworkGraph() {
                     ["učitel", "narrator"],
                     ["dívčina", "učitel"],
                     ["učitel", "narrator"],
-                    ["učitel", "Etiopská lilie"], // ? (já bych to tak necvhal, bo k ní vyloženě mluví a ta lilie je celkově dost důležitá, ale idk)
+                    ["učitel", "Etiopská lilie"],
+                    // ? (já bych to tak necvhal, bo k ní vyloženě mluví a ta lilie je celkově dost důležitá, ale idk)
                     ["narrator", "učitel"],
                     ["učitel", "narrator"],
                     ["narrator", "učitel"],
