@@ -20,11 +20,11 @@
 
     <p style="margin-bottom: 50px; width: 100%; text-align: justify; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">The graphs show the links between the different characters in the fictional world. The bond is realized by talking to each other. If, for example, only one character speaks to another and the latter does not reciprocate the conversation, it is bonding and one-sided. There is a connection between the characters; you click on a specific character or narrator, their network is highlighted. The pink area is related to the narrator, the blue area is related to the character with whom the narrator or another character is speaking, the grey area is related to a character whose communication is not explicitly realized in the narrative - e.g. referred to by the narrator or another character.</p>
 
-    <select style="margin-top: 30px; float: left;" onchange="showGraph()" id="cluster">
+    <select style="margin-top: 30px; float: left;" onchange="showNetworkGraph()" id="cluster">
         <option>-- select --</option>
         <option value="dabel">Ďábel na skřipci</option>
         <option value="elegie">Elegie o černých očích</option>
-        <option value="xaverius">Svatý Xaverius</opiton>
+        <option value="xaverius">Svatý Xaverius</option>
         <option value="demon">Sivooký démon</option>
         <option value="madona">Zázračná madona</option>
         <option value="ukrizovana">Ukřižovaná</option>
@@ -45,7 +45,7 @@
         <option value="agitator">Agitátor</option>
       </select>
     
-    <div id="container"></div>
+    <div id="container-person"></div>
 
     <div style="clear:both;"></div>
     <br>
