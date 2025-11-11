@@ -35,7 +35,7 @@ function showGraph(){
             ]},
             // neexsitující místa
             {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
-                {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                +
                 {name: 'Skalka (1873) Plán kr. hl. mětsa s vůkolím do F. Kořistky', lon: 14.3972156, lat: 50.0682433, image: "../foto_praha/skalka_brezinka_santoska.jpg"},
                 {name: 'Santoška (1873) Plán kr. hl. mětsa s vůkolím do F. Kořistky', lon: 14.3999192, lat: 50.0628989, image: "../foto_praha/skalka_brezinka_santoska.jpg"},
                 {name: 'Březinka (1873) Plán kr. hl. mětsa s vůkolím do F. Kořistky', lon: 14.4010994, lat: 50.0652406, image: "../foto_praha/skalka_brezinka_santoska.jpg"},
@@ -709,6 +709,22 @@ function showGraph(){
                 {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
                     {name: 'Chrám svatého Víta (na obraze Ludvíka Kohla z r. 1814)', lon: 14.4006036 , lat: 50.0908936, image: "../foto_praha/storzer_svaty_vit.jpeg"},
                     {name: 'Bitva u Lipska (na obraze Vladimira Moškova)', lon:  12.3747328 , lat:  51.3406319, image: "../foto_praha/storzer_lipsko.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                ]},
+                ]});    
+                break;
+        case "Kamarádi":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Hradec Králové', lon: 15.8327512, lat: 50.2092113, image: "../foto_praha/storzer_hk.jpg"},
+                    {name: 'Bitva u Chlumce (na obraze Alexandera Kotzebue)', lon: 13.9396372 , lat:  50.6997186, image: "../foto_praha/storzer_kulm.jpg"},
+                    {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
+                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
+                    {name: 'Satalice', lon:  14.5707903 , lat:  50.1252719, image: "../foto_praha/storzer_satalice.jpg"}
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
