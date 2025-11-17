@@ -62,7 +62,7 @@ function showGraph(){
                 {name: 'Staré Město (1880) © Zmizelá Praha, sv. 1, 1919', lon: 14.4226550, lat: 50.0888228, image: "../foto_praha/staremesto.jpg"},
                 {name: 'Nové Město, Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
                 {name: 'Smíchov (1830) © V. Morstadt', lon: 14.4048311, lat: 50.0689367, image: "../foto_praha/smichov.jpg"},
-                {name: 'Petřín (1830) © V. Morstadt', lon: 14.3952356, lat: 50.0834503, image: "../foto_praha/petrin.jpg"},
+                {name: 'Petřín (1830) © V. Morst;adt', lon: 14.3952356, lat: 50.0834503, image: "../foto_praha/petrin.jpg"},
                 {name: 'Košířský hřbitov © Plán Prahy s okolím (1885)', lon: 14.3540281, lat: 50.0722028, image: "../foto_praha/kosirskyhrbitov.jpg"},
                 {name: 'Bílá hora © II. vojenské mapování (1836–1852)', lon:  14.3190683, lat: 50.0782264, image: "../foto_praha/bilahora.jpg"},
             ]},
@@ -725,6 +725,25 @@ function showGraph(){
                     {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
                     {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
                     {name: 'Satalice', lon:  14.5707903 , lat:  50.1252719, image: "../foto_praha/storzer_satalice.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                ]},
+                ]});    
+                break;
+        case "Jedna z těch, které mě zajímaly":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Nové Město, Karlovo náměstí (1820) © Zmizelá Praha, sv. 3, 1919', lon: 14.4254014, lat: 50.0792811, image: "../foto_praha/novemesto.jpg"},
+                    {name: 'Libanon', lon: 35.7969669 , lat: 33.8776389, image: "../foto_praha/storzer_libanon.png"},
+                    {name: 'Emauzy (přelom 19. a 20. století) © Deport & Panzer', lon: 14.4175814, lat: 50.0719492, image: "../foto_praha/storzer_emauzy.png"},
+                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Rabínská ulice (1909; dnes ulice Maiselova) © EPOQUE 1900, spol. s r.o.', lon:  14.4184267, lat:  50.0891208, image: "../foto_praha/storzer_rabinska.jpg"},
+                    {name: ' Smíchov (19. stol.) © V. Morstadt', lon:  14.4048437 , lat:  50.0749464, image: "../foto_praha/smichov.jpg"},
+                    {name: 'Karlov', lon: 14.4265703, lat: 50.0693008, image: "../foto_praha/storzer_karlov.jpg"},
+                    {name: 'Vyšehrad s kostelem (1872) © Zmizelá Praha, sv. 4, 1919', lon: 14.4178128,lat: 50.0643569, image: "../foto_praha/vysehradskykostel.jpg"},
+                    {name: 'Hora Sinaj © Gerd Eichmann', lon:  33.9751844 , lat:  28.5388086, image: "../foto_praha/storzer_sinai.jpg"}
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
