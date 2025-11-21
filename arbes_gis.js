@@ -750,6 +750,34 @@ function showGraph(){
                 ]},
                 ]});    
                 break;
+         case "Kandidáti existence":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Hostinec u Platejse (v dnešním paláci Platýz) © VitVit', lon: 14.4206436, lat: 50.0828806, image: "../foto_praha/storzer_platyz.jpg"},
+                    {name: 'Klimentská (1915) © Světozor', lon: 14.4304097, lat:  50.0920908, image: "../foto_praha/storzer_klimentska.jpg"},
+                    {name: 'Truhlářská (1926) © Český svět', lon: 14.4299667, lat: 50.0904783, image: "../foto_praha/storzer_truhlarska.jpg"},
+                    {name: 'Újezdská brána', lon: 14.4043375, lat: 50.0804150, image: "../foto_praha/ujezd_brana.jpg"},
+                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
+                    {name: 'Nebraska', lon:  (-96.7077753) , lat:  40.8088861, image: "../foto_praha/storzer_nebraska.png"},
+                    {name: 'Oregon', lon: (-123.0331211) , lat:  44.9391564, image: "../foto_praha/storzer_oregon.png"},
+                    {name: 'Missouri', lon: (-100.7217317) , lat:  44.7863750, image: "../foto_praha/storzer_missouri.png"},
+                    {name: 'Black Hills © Flickr', lon:  (-103.5264875), lat: 43.8692811, image: "../foto_praha/storzer_blackhills.jpg"},
+                    {name: 'Rocky Mountains © Gorgo', lon: (-110.9175061) , lat:  43.3578531, image: "../foto_praha/storzer_rockymounitains.jpg"},
+                    {name: 'St. Louis (1906) © Monovisions', lon: (-90.1910156) , lat: 38.6280278, image: "../foto_praha/storzer_stlouis.jpg"},
+                    {name: 'New Orleans (na litografii z r. 1852) © J.W. Hill & Smith', lon:  (-90.0730258), lat: 29.9559144, image: "../foto_praha/storzer_neworleans.jpg"},
+                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
+                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
+                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
+                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
+                    {name: 'Fontainebleau © Carolus ', lon:  2.7025 , lat:  48.409722, image: "../foto_praha/storzer_fontainebleau.jpg"}
+                // neexistující místa
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                ]},
+                ]});    
+                break;    
+        
         default:
             document.getElementById("gis").src = "";
     }
