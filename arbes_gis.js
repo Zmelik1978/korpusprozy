@@ -766,14 +766,30 @@ function showGraph(){
                     {name: 'Rocky Mountains © Gorgo', lon: (-110.9175061) , lat:  43.3578531, image: "../foto_praha/storzer_rockymounitains.jpg"},
                     {name: 'St. Louis (1906) © Monovisions', lon: (-90.1910156) , lat: 38.6280278, image: "../foto_praha/storzer_stlouis.jpg"},
                     {name: 'New Orleans (na litografii z r. 1852) © J.W. Hill & Smith', lon:  (-90.0730258), lat: 29.9559144, image: "../foto_praha/storzer_neworleans.jpg"},
-                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
-                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
-                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
-                    {name: 'Na Poříčí', lon:  14.4334439 , lat:  50.0897469, image: "../foto_praha/storzer_porici.jpg"},
+                    {name: 'Lužická © Šjů', lon:  14.4449392 , lat:  50.0735094, image: "../foto_praha/storzer_luzicka.jpg"},
+                    {name: 'Valdštejsnká © Balek Art', lon:  14.4074503 , lat:  50.0906522, image: "../foto_praha/storzer_valdstejnska.jpeg"},
+                    {name: 'Zlíchov (na staré pohlednici)', lon:  14.4049097, lat: 50.0470628, image: "../foto_praha/storzer_zlichov.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Celetná (pohled z r. 1910) © EPOQUE 1900', lon: 14.4246128, lat:  50.0871717, image: "../foto_praha/storzer_celetna.jpg"},
+                    {name: 'Malostranské policejní komisařství ?', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Vaječný trh (dnes Tržiště; 1899) © EPOQUE 1900', lon:  14.4017575 , lat:  50.0873492, image: "../foto_praha/storzer_trziste.jpg"},
+                    {name: 'Prokopská © Dobroš', lon: 14.4044428 , lat: 50.0866553, image: "../foto_praha/storzer_prokopska.jpg"},
+                    {name: 'Velkopřevorské náměstí (1902)', lon: 14.4065194, lat:  50.0861014, image: "../foto_praha/storzer_velkoprevorske_n.jpg"},
+                    {name: 'Pardubice (na vedutě Jana Antonína Venuta)', lon: 15.7774239 , lat:  50.0375792, image: "../foto_praha/storzer_pardubice.jpg"},
+                    {name: 'Česká Třebová (na pohledu L. Förstera z r. 1845)', lon: 16.4472761 , lat:  49.9018828, image: "../foto_praha/storzer_ceska_trebova.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
+                    {name: 'Michalská © Světozor', lon: 14.4199239 , lat:  50.0854925, image: "../foto_praha/storzer_michalska.jpg"},
                     {name: 'Fontainebleau © Carolus ', lon:  2.7025 , lat:  48.409722, image: "../foto_praha/storzer_fontainebleau.jpg"}
                 // neexistující místa
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'vinice Konvářka (dnes pouze dochovaná stará usedlost) © Památkový katalog ', lon:  14.4042950, lat: 50.0549672, image: "../foto_praha/storzer_konvarka.jpg"}
                 ]},
                 ]});    
                 break;    
