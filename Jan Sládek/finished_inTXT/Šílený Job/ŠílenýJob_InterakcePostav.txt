@@ -1,0 +1,777 @@
+elegán -> otrhanec
+elegán -> otrhanec
+lokajové -> otrhanec
+
+elegán -> otrhanec
+lokajové -> otrhanec
+elegán -> otrhanec
+otrhanec -> elegán
+elegán -> otrhanec
+otrhanec -> elegán
+otrhanec -> elegán
+
+otrhanec -> elegán
+elegán -> otrhanec
+otrhanec -> elegán
+elegán -> otrhanec
+otrhanec -> elegán
+
+(okolo) zevlující lidé -> otrhanec
+
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+portýr -> elegán
+elegán -> portýr
+
+
+elegán -> lokajové
+lokajové -> elegán
+lokajové -> elegán
+
+
+elegán -> portýr
+portýr -> elegán:
+	kněžna -> portýr
+
+elegán -> portýr
+portýr -> elegán
+
+
+
+
+
+
+Houžvička -> hosté
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+hosté -> Houžvička
+
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+
+hosté -> Houžvička
+hosté -> Houžvička
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+hlas -> hosté
+hosté -> hlas
+
+hosté -> hlas
+(šílený) Job (== hlas/otrhanec) -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+Houžvička -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+Job -> hosté
+hosté -> Job
+hosté -> Job
+hosté -> Job
+hosté -> Job
+hosté -> Job
+hosté -> Job
+Job -> hosté
+hosté -> Job
+hosté -> Job
+Houžvička -> hosté
+Houžvička -> Job
+
+hosté -> Job
+Houžvička -> Job
+Houžvička -> Marta (harfenice)
+Houžvička -> Marta
+Houžvička -> Job
+Job -> Marta
+hosté -> Job
+hosté -> Job
+hosté -> Job
+Houžvička -> hosté
+hosté -> Houžvička
+hosté -> Job
+hosté -> Job
+hosté -> Job
+
+hosté -> Job
+Houžvička -> Job
+hosté -> Job
+Job -> hosté
+hosté -> Job
+
+Job -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+hosté -> Job
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+Houžvička -> Job
+Job -> Houžvička
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+hosté -> Job
+Job -> hosté
+Houžvička -> Job
+Job -> Houžvička
+hosté -> Job
+Job -> hosté
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+hosté -> job
+hosté -> Job
+Job -> hosté
+
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Houžvička -> Job
+
+Houžvička -> Job
+Houžvička -> hosté
+Houžvička -> hosté
+Houžvička -> Job
+
+policista -> hosté
+policista -> hosté
+hosté -> policista
+policista -> hosté
+hosté -> policista
+Houžvička -> policista
+policista -> hosté
+Houžvička -> policista
+hosté -> policista
+policista -> hosté
+policista -> Job
+Job -> policista
+policista -> Job
+Job -> policista
+policista -> Job
+Job -> policista
+hosté -> policista
+Houžvička -> policista
+policista -> Houžvička
+Houžvička -> Job
+
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+Houžvička -> hosté
+hosté -> Houžvička
+Houžvička -> hosté
+
+
+
+
+Job -> úřadník
+úřadník -> Job
+úřadník -> strážník
+strážník -> Job
+
+strážník -> Job
+Job -> strážník
+strážník -> Job
+Job -> strážník
+strážník -> Job
+Job -> strážník
+strážník -> Job
+Job -> strážník
+strážník -> Job
+
+
+strážník -> vrátný (blázince)
+vrátný -> strážník
+strážník -> vrátný
+vrátný -> strážník
+strážník -> vrátný
+vrátný -> strážník
+
+
+
+
+hosté -> hostinský
+hostinský -> hosté
+
+
+
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> sklepnice
+
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+hostinský -> Houžvička
+
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička:
+	Job -> hostinský
+	hostinský -> Job
+	Job -> hostinský
+
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+Houžvička -> hostinský
+Houžvička -> hostinský
+
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+hostinský -> Houžvička
+Houžvička -> hostinský
+Houžvička -> hostinský
+hostinský -> Houžvička
+
+
+
+
+
+Houžvička -> hošík
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+Houžvička -> hošík
+hošík -> Houžvička
+
+
+
+Klárka - -> babička
+babička -> Klárka
+chlapec -> babička
+děti (včetně těch dvou) -> babička
+babička -> děti
+děti -> babička
+babička -> děti
+holčička 2 (ne Klárka) -> babička
+chlapec -> babička
+děti -> babička
+babička -> děti
+holčička 2 -> babička
+děti -> babička
+babička -> děti
+děti -> babička
+děti -> babička
+hošík -> babička
+babička -> hošík (= Jeníček)
+Jeníček -> babička
+babička -> Jeníček
+Jeníček -> babička
+babička -> Jeníček
+děti -> babička
+Jeníček -> děti
+Jeníček -> babička
+babička -> Jeníček
+Jeníček -> babička
+babička -> Jeníček
+Jeníček -> babička
+babička -> Jeníček
+Jeníček -> babička
+
+babička -> Jeníček
+Jeníček -> babička
+Jeníček -> babička
+babička -> Houžvička
+
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+babička -> Houžvička
+Houžvička -> babička
+
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička
+Houžvička -> babička
+babička -> Houžvička:
+	Job (v dopise) -> babička (= Jobova matka)
+		(dozvídáme se, že "šílený job" se ve skutečnosti jmenuje Karel)
+
+Houžvička -> babička
+babička -> Houžvička
+
+Jeníček -> děti
+
+děti -> babička
+děti -> babička
+
+děti -> babička
+babička -> Job
+
+Job -> Houžvička
+Job -> Houžvička
+
+
+Houžvička -> Job
+Job -> Houžvička
+Jeníček -> Job
+
+
+
+...
+
+
+
+
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička:
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+
+
+
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	galán -> Job
+
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+
+
+
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job:
+		matka (dívky dělnice) -> dělnice
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job:
+		kněžna -> matka
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+
+	Job -> dělnice
+	dělnice -> Job
+
+
+
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+	galán -> Job
+	Job -> galán
+
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+
+	galán -> Job
+	Job -> galán
+
+
+
+	klenotník -> Job
+	Job -> klenotník
+	klenotník -> Job
+	Job -> klenotník
+
+
+
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	dělnice -> Job
+
+
+
+	Job -> otec dělnice
+	otec dělnice -> Job
+	Job -> otec dělnice
+	otec dělnice -> Job
+	Job -> otec dělnice
+	otec dělnice -> Job
+	Job -> otec dělnice
+	otec dělnice -> Job
+	Job -> otec dělnice
+	otec dělnice -> Job
+	Job -> otec dělnice
+	otec dělnice -> Job
+	Job -> otec dělnice
+	otec dělnice -> Job
+
+
+
+	ryšavec (== galán) -> Job
+	Job -> ryšavec
+	ryšavec -> Job
+	Job -> ryšavec
+	ryšavec -> Job
+	Job -> ryšavec
+	ryšavec -> Job
+	Job -> ryšavec
+	ryšavec -> Job
+	Job -> ryšavec
+	ryšavec -> Job
+
+
+
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+	Job -> dělnice
+	dělnice -> Job
+
+	Job -> dělnice
+	dělnice -> Job
+	dělnice -> Job
+
+
+
+	Job -> hostinský
+	hostinský -> Job
+
+	Job -> soudní komise
+	
+
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Job -> Houžvička
+Houžvička -> Job
+Job -> Houžvička
+Houžvička -> Job
+
+
+ryšavec -> Job
+Job -> ryšavec
+Job -> ryšavec
+Job -> ryšavec
+
+
+
+
+
+
+
+
+
+
+____________________________________
+
+pozn.:
+
+Job, hlas, otrhanec = šílený Job
+babička = Jobova matka
+galán, ryšavec = ryšavec
+dělnice = dívka
+matka = matka dívky
+otec dělnice = otec dívky
+
+
+(+ neexistuje homodiegetický narrator celého příběhu, pouze rámců, takže ho nebudu zanášet ani do kódu)
