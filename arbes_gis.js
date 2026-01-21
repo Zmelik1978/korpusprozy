@@ -908,10 +908,18 @@ function showGraph(){
                     {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
                     {name: 'Letná (1888) © Světozor', lon: 14.4158122, lat: 50.0976897, image: "../foto_praha/storzer_letna.jpg"},
                     {name: 'Ruzyně, pohled na kasárna © V.K.K.V', lon: 14.3028035, lat: 50.0915435, image: "../foto_praha/Storzer_ruzyne.jpg"},
-                    {name: 'Bitva na Vítkově (na obraze Adolfa Liebschera); dnes Žižkov', lon: 14.4566083, lat:  50.0806550, image: "../foto_praha/storzer_vitkov.jpg"},
+                    {name: 'Žižkov, Husitská ulice (okolo 1900) © Zmizelá Praha, sv. 7, 2003', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_zizkov.jpg"},
                     {name: 'Dejvice © Světozor', lon: 14.3768169, lat: 50.1045156, image: "../foto_praha/storzer_dejvice.jpg"}
                 ]},
                 {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+                    {name: 'Bývalá usedlost a vinice Mlynářka © Vratislav Hál', lon:14.3798911, lat: 50.1005894, image: "../foto_praha/storzer_mydlarka.jpg"},
+                    {name: 'Bývalá vinice Strakovka (dnes pouze viniční dům) © Památkový katalog Národního památkového ústavu', lon: 14.3845825, lat:50.1015936, image: "../foto_praha/storzer_strakovka.jpg"},
+                    {name: 'Bývalá vinice Pušrajbka', lon:  14.373573, lat:50.103468, image: "../foto_praha/OBRAZEK_NENALEZEN.jpg"},
+                    {name: 'Bývalá vinice Kotlářka (dnes pouze usedlost) © Památkový katalog Národního památkového ústavu', lon: 14.383594, lat:50.106708, image: "../foto_praha/storzer_strakovka.jpg"},
+                    {name: 'Bývalá vinice Hanspaulka (dnes zámeček) © Wikimedia Commons', lon: 14.3783853, lat: 50.1061358, image: "../foto_praha/storzer_hanspaulka.jpg"},
+                    {name: 'Bývalá vinice Santinka', lon: 14.387761, lat: 50.10656, image: "../foto_praha/OBRAZEK_NENALEZEN.jpg"},
+                    {name: 'Bývalá vinice Juliška', lon: 14.38839, lat: 50.110735, image: "../foto_praha/OBRAZEK_NENALEZEN.jpg"},
+                    {name: 'Bývalá vinice Pernikářka (dnes pouze usedlost) © Památkový katalog Národního památkového ústavu', lon: 14.368629, lat: 50.101483, image: "../foto_praha/storzer_pernikarka.jpg"}
                 ]},
                 ]});
                 break;
