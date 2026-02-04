@@ -905,7 +905,6 @@ function showGraph(){
                     {name: 'Podbaba na kresbě J. Kaplického', lon: 14.3951908, lat: 50.1093178, image: "../foto_praha/storzer_podbaba.jpg"},
                     {name: 'Bruská brána (dnes Písecká brána) © Světozor', lon: 14.4058908, lat: 50.0952119, image: "../foto_praha/storzer_bruskab.jpg"},
                     {name: 'Bubeneč (Na obraze "Pohled na Bubeneč" A. Mánesa)', lon: 14.4001203, lat: 50.1011389, image: "../foto_praha/storzer_bubenec.jpeg"},
-                    {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
                     {name: 'Letná (1888) © Světozor', lon: 14.4158122, lat: 50.0976897, image: "../foto_praha/storzer_letna.jpg"},
                     {name: 'Ruzyně, pohled na kasárna © V.K.K.V', lon: 14.3028035, lat: 50.0915435, image: "../foto_praha/Storzer_ruzyne.jpg"},
                     {name: 'Žižkov, Husitská ulice (okolo 1900) © Zmizelá Praha, sv. 7, 2003', lon: 14.389070, lat: 50.087460, image: "../foto_praha/storzer_zizkov.jpg"},
@@ -919,8 +918,24 @@ function showGraph(){
                     {name: 'Bývalá vinice Hanspaulka (dnes zámeček) © Wikimedia Commons', lon: 14.3783853, lat: 50.1061358, image: "../foto_praha/storzer_hanspaulka.jpg"},
                     {name: 'Bývalá vinice Santinka', lon: 14.387761, lat: 50.10656, image: "../foto_praha/OBRAZEK_NENALEZEN.jpg"},
                     {name: 'Bývalá vinice Juliška', lon: 14.38839, lat: 50.110735, image: "../foto_praha/OBRAZEK_NENALEZEN.jpg"},
+                    {name: 'Zaniklá ves Bubny (na fotografii bývalé nádraží) © Honza Groh, Wikimedia Commons', lon: 14.443333, lat: 50.1, image: "../foto_praha/storzer_bubny.jpeg"},
                     {name: 'Bývalá vinice Pernikářka (dnes pouze usedlost) © Památkový katalog Národního památkového ústavu', lon: 14.368629, lat: 50.101483, image: "../foto_praha/storzer_pernikarka.jpg"}
                 ]},
+                ]});
+                break;
+        case "První noc u mrtvoly":
+            Highcharts.mapChart('gis', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}},mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.418540, 50.0874654], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Zázračná madona'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false}, 
+                // existující místa
+                {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24,}, data: [
+                    {name: 'Chotkova (1910) © Český svět', lon:  14.4068500 , lat:  50.0932050, image: "../foto_praha/storzer_chotkova.jpg"},
+                    {name: 'Kostel svatého Jiljí © Gampe, Wikimedia Commons', lon: 14.4186556, lat: 50.0850281, image: "../foto_praha/storzer_jilji.JPG"},
+                    {name: 'Dům U Tří divých mužů © Miroslava Nováková', lon: 14.4177342, lat: 50.0856158, image: "../foto_praha/storzer_u_tri_divych_muzu.jpg"},
+                    {name: ' Smíchov (19. stol.) © V. Morstadt', lon:  14.4048437 , lat:  50.0749464, image: "../foto_praha/smichov.jpg"},
+                    {name: 'Újezd (1891) © Světozor', lon: 14.4045214, lat: 50.0821956, image: "../foto_praha/ujezd.jpg"}
+                ]},
+                {type: 'mappoint',name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [    
+                {name: 'Hostinec U Eggenbergu (v budově bývalého letohrádku Eggenberg)', lon: 14.406091, lat: 50.078346, image: "../foto_praha/storzer_eggenberg.JPG"}]},
+                {name: 'Baráky', lon: 0, lat: 0, image: "../foto_praha/DOPLNIT_OBRAZEK.jpg"}
                 ]});
                 break;
         
