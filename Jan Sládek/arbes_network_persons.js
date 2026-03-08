@@ -4267,7 +4267,6 @@ function showNetworkGraph() {
                     {id: 'vojáci',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                     {id: 'desátník',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                     {id: 'otec Cili',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
-                    {id: 'Emerich ',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                     {id: 'přítel Doležel',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                     {id: 'krupař',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
                     {id: 'řezník',marker: {radius: 10, lineWidth: linewidth, lineColor: line}, color: postava2},
