@@ -1,0 +1,380 @@
+pijani (mezi sebou)
+
+
+pijani -> hlas (neplatil)
+hlas -> pijani
+pijani -> hlas
+
+pijani -> hlas
+hlas -> pijani
+pijani -> hlas
+
+
+narrator -> kolohnát
+kolohnát -> narrator
+narrator -> kolohnát
+kolohnát -> narrator
+
+kolohnát -> pijani
+
+pijani -> Mamert
+pijani -> Mamert
+pijani -> Krafta
+pijani -> Krafta
+pijani -> Mamert
+
+narrator -> výrostek
+výrostek -> narrator
+
+narrator -> pijani
+pijani -> narrator
+narrator -> pijani
+pijani -> narrator
+pijani -> narrator
+narrator -> pijani
+pijani -> narrator
+Kolčava -> narrator
+pijani -> Kolčava
+Krafta -> pijani
+
+
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+
+
+narrator -> Mamert
+
+
+
+
+
+Mamert (v rukopise):
+	matička -> dcera
+	dcera -> matička
+
+	dcera -> matička
+
+
+// dcera (v suplice) -> úřad
+
+
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+
+hospodský -> narrator
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+
+hospodský -> narrator
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+
+
+
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+hospodský -> narrator
+narrator -> hospodský
+
+
+
+// Mamert (ve snu) -> narrator
+
+
+Mamert (v dopise) -> narrator
+
+
+
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+
+hoch -> narrator
+
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+narrator -> hoch
+hoch -> narrator
+
+
+
+
+
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+
+
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+
+Mamert -> narrator
+narrator -> Mamert
+
+Mamert -> narrator
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+
+Mamert -> narrator:
+	kdosi -> hostinský, Mamert
+	hostinský -> kdosi
+
+
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator:
+	ubožák -> soud
+
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+
+Mamert -> narrator
+
+
+
+
+
+hostinský -> narrator
+hostinský -> narrator
+narrator -> hostinský
+hostinský -> narrator
+narrator -> hostinský
+
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+narrator -> Mamert
+Mamert -> narrator
+Mamert -> narrator
+
+
+
+hostinský -> narrator
+hostinský -> narrator
+narrator -> hostinský
+Krafta -> Mamert
+Krafta -> Mamert
+
+hostinský -> narrator, Krafta
+hostinský -> narrator
+Krafta -> hostinský
+
+
+
+Mamert (v dopise) -> narrator:
+	Mamert -> rusovláska
+	rusovláska -> Mamert:
+		Blum -> rusovláska
+
+	
+
+
+
+
+
+
+
+
