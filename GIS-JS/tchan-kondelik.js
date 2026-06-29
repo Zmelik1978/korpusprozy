@@ -1,0 +1,36 @@
+case "tchan-kondelik":
+    Highcharts.mapChart('gis-container', {chart: {margin: 0}, title: {text: ''}, navigation: {buttonOptions: {align: 'left', theme: {stroke: '#e6e6e6'}}}, mapNavigation: {enabled: true, buttonOptions: {alignTo: 'spacingBox'}}, mapView: {center: [14.41865, 50.081], zoom: 10}, tooltip: {useHTML: true, headerFormat: "{point.point.name}", pointFormat: '<br/><img src="{point.image}"/>'}, legend: {enabled: true, title: {text: 'Tchán Kondelík a zeť Vejvara'}, align: 'right', symbolWidth: 20, symbolHeight: 20, itemStyle: {textOutline: '1 1 1px rgba(255,255,255)'}, backgroundColor: 'rgba(255,255,255,0.8)', float: true, borderColor: '#e6e6e6', borderWidth: 1, borderRadius: 2, itemMarginBottom: 5}, plotOptions: {mappoint: {dataLabels: {enabled: false}}}, series: [{type: 'tiledwebmap', name: '', provider: {type: 'OpenStreetMap'}, showInLegend: false},
+    {type: 'mappoint', name: 'existing place', marker: {symbol: 'url(../img/placeholder.png)', width: 24, height: 24}, data: [
+        {name: 'Vinohrady', lon: 14.448, lat: 50.0755, image: "../foto_praha/vinohrady.jpg"},
+        {name: 'Ječná ulice', lon: 14.4234, lat: 50.0746, image: "../foto_praha/jecna_ulice.jpg"},
+        {name: 'Žitná ulice', lon: 14.425, lat: 50.0758, image: "../foto_praha/zitna_ulice.jpg"},
+        {name: 'Čelakovského ulice, Vinohrady (dobový název)', lon: 14.44, lat: 50.078, image: "../foto_praha/celakovskeho_ulice_vinohrady.jpg"},
+        {name: 'Štěpánská ulice', lon: 14.427, lat: 50.079, image: "../foto_praha/stepanska_ulice.jpg"},
+        {name: 'Spálená ulice', lon: 14.4195, lat: 50.081, image: "../foto_praha/spalena_ulice.jpg"},
+        {name: 'Ferdinandova třída (dnes Národní třída)', lon: 14.4178, lat: 50.0817, image: "../foto_praha/ferdinandova_trida.jpg"},
+        {name: 'Palackého třída, Vinohrady (dobový název)', lon: 14.436, lat: 50.076, image: "../foto_praha/palackeho_trida_vinohrady.jpg"},
+        {name: 'Komenská ulice, Vinohrady', lon: 14.449, lat: 50.0815, image: "../foto_praha/komenska_ulice_vinohrady.jpg"},
+        {name: 'Kravín (U Kravína, Vinohrady)', lon: 14.449, lat: 50.0775, image: "../foto_praha/kravin.jpg"},
+        {name: 'Karlovo náměstí', lon: 14.4205, lat: 50.0758, image: "../foto_praha/karlovo_namesti.jpg"},
+        {name: 'Václavské náměstí', lon: 14.427, lat: 50.081, image: "../foto_praha/vaclavske_namesti.jpg"},
+        {name: 'Karlův most', lon: 14.4114, lat: 50.0865, image: "../foto_praha/karluv_most.jpg"},
+        {name: 'Malá Strana', lon: 14.404, lat: 50.0884, image: "../foto_praha/mala_strana.jpg"},
+        {name: 'Hradčany', lon: 14.398, lat: 50.089, image: "../foto_praha/hradcany.jpg"},
+        {name: 'Vltava', lon: 14.411, lat: 50.086, image: "../foto_praha/vltava.jpg"},
+        {name: 'Měšťanská beseda', lon: 14.4205, lat: 50.081, image: "../foto_praha/mestanska_beseda.jpg"},
+        {name: 'Smíchov', lon: 14.404, lat: 50.071, image: "../foto_praha/smichov.jpg"},
+        {name: 'Žižkov', lon: 14.45, lat: 50.087, image: "../foto_praha/zizkov.jpg"},
+        {name: 'Karlín', lon: 14.445, lat: 50.093, image: "../foto_praha/karlin.jpg"},
+        {name: 'Chotkovy sady', lon: 14.407, lat: 50.093, image: "../foto_praha/chotkovy_sady.jpg"},
+        {name: 'Divoká Šárka', lon: 14.326, lat: 50.095, image: "../foto_praha/divoka_sarka.jpg"},
+        {name: 'Podbaba', lon: 14.392, lat: 50.118, image: "../foto_praha/podbaba.jpg"},
+        {name: 'Velká Chuchle', lon: 14.387, lat: 50.015, image: "../foto_praha/velka_chuchle.jpg"},
+        {name: 'Roztoky u Prahy', lon: 14.395, lat: 50.162, image: "../foto_praha/roztoky_u_prahy.jpg"},
+        {name: 'Karlštejn', lon: 14.188, lat: 49.9393, image: "../foto_praha/karlstejn.jpg"},
+        {name: 'Budňany (dnes část Karlštejna)', lon: 14.19, lat: 49.937, image: "../foto_praha/budnany.jpg"},
+        {name: 'Bruská (Písecká) brána', lon: 14.403, lat: 50.0925, image: "../foto_praha/bruska.jpg"},
+    ]},
+    {type: 'mappoint', name: 'vanished place', marker: {symbol: 'url(../img/maps-and-flags.png)', width: 24, height: 24}, data: [
+
+    ]},]});
+    break;
