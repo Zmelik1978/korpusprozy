@@ -1,0 +1,857 @@
+muž (Havrda) -> Hanička
+Hanička -> muž
+
+Hanička -> muž
+
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+
+
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+
+Hanička -> muž
+muž -> Hanička
+
+
+muž -> Hanička
+Hanička -> muž
+muž -> Hanička
+
+muž -> Hanička
+
+Hanička -> hlas za dveřmi
+hlas za dveřmi -> Hanička
+Hanička -> hlas za dveřmi
+hlas za dveřmi -> Hanička
+Hanička -> hlas za dveřmi
+hlas za dveřmi -> Hanička
+Hanička -> hlas za dveřmi
+hlas za dveřmi -> Hanička
+
+hlas "vůdce" za dveřmi -> hlas za dveřmi
+
+policejní koncipista (= hlas za dveřmi) -> Hanička
+koncipista -> Hanička
+Hanička -> koncipista
+koncipista -> Hanička
+koncipista -> Hanička
+Hanička -> koncipista
+koncipista -> Hanička
+koncipista -> Hanička
+Hanička -> koncipista
+koncipista -> Hanička
+Hanička -> koncipista
+koncipista -> Hanička
+koncipista -> Hanička
+Hanička -> koncipista
+koncipista -> Hanička
+Hanička -> koncipista
+koncipista -> Hanička
+Hanička -> koncipista
+
+koncipista -> Hanička
+
+
+
+
+
+Lampasíček -> Klomínek
+Klomínek -> Lampasíček
+Lampasíček -> Klomínek
+Lampasíček -> Klomínek
+Klomínek -> Lampasíček
+Lampasíček -> Klomínek
+Klomínek -> Lampasíček
+Lampasíček -> Klomínek
+Lampasíček -> hosté
+
+Lampasíček -> hostitelka (Hanička (Havrdová))
+hostitelka -> hosté
+Lampasíček -> hostitelka
+hostitelka -> Lampasíček
+Lampasíček -> hostitelka
+Klomínek -> hostitelka
+Lampasíček -> hostitelka
+hostitelka -> hosté
+Lampasíček -> hosté
+
+Lampasíček -> hostitel (Svobodovský)
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+
+Lampasíček -> hosté
+Lampasíček -> hosté
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+hostitel -> Žehušický
+Žehušický -> hostitel
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Klomínek -> všichni 3 ostatní 
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+Žehušický -> všichni
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+
+Lampasíček -> hostitel
+Žehušický -> všichni
+Klomínek -> Lampasíček
+
+Lampasíček -> všichni:
+	Havrda -> Lampasíček
+	Lampasíček -> Havrda
+	Havrda -> Lampasíček
+	Lampasíček -> Havrda
+
+	Havrda -> Lampasíček
+	Lampasíček -> Havrda
+	Havrda -> Lampasíček
+
+	Havrda -> Lampasíček
+	Havrda -> Lampasíček
+	Lampasíček -> Havrda
+	Havrda -> Lampasíček
+
+	Havrdův otec -> Havrda, Lampasíček
+
+	Havrda -> Lampasíček
+	Lampasíček -> Havrda
+	Havrda -> Lampasíček
+
+	Havrdův otec -> Havrda, Lampasíček
+
+	Havrda -> Havrdův otec
+
+
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Klomínek, Žehušický -> hostitel
+hostitel -> hosté
+Žehušický -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+
+Lampasíček -> hostitel
+Žehušický -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Katuška (služka)
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Lampasíček -> hostitel
+hostitel -> Lampasíček
+Klomínek -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+Žehušický -> hostitel
+hostitel -> hosté
+Lampasíček -> hostitel
+hostitel -> Katuška
+Lampasíček -> hostitel
+
+Klomínek -> Žehušický
+Žehušický -> klomínek
+Klomínek -> Žehušický
+Žehušický -> klomínek
+Klomínek -> Žehušický
+Žehušický -> klomínek
+
+
+dítě -> pes
+dítě -> pes
+stařena -> dítě
+dítě -> stařena
+stařena -> dítě
+dítě -> stařena
+stařena -> dítě
+dítě -> stařena
+
+
+
+dítě -> Hanička
+dítě -> Hanička
+Hanička -> dítě
+dítě -> Hanička
+Hanička -> dítě
+dítě -> Hanička
+Hanička -> dítě
+dítě -> Hanička
+Hanička -> dítě
+dítě -> Hanička
+Hanička -> dítě
+dítě -> Hanička
+
+Hanička -> Máňa (stařena)
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+
+
+
+muž za plotem -> Hanička
+muž za plotem -> Hanička
+muž za plotem -> Hanička
+
+
+
+(Lampasíček -> sám k sobě)
+
+
+(v dopise) Havrda -> Hanička:
+
+	
+
+
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+
+
+Žehušický -> Klomínek, Svobodovský
+Klomínek -> Žehušický
+Žehušický -> Klomínek, Svobodovský
+Klomínek -> Žehušický
+
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+Klomínek -> Svobodovslý
+Svobodovský -> Klomínek
+
+
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+
+
+
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+
+Svobodovský -> Hanička
+Svobodovský -> Hanička
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+
+
+
+
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+
+Klomínek -> Žehušický
+
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+
+Lampasíček (ze sna) -> Hanička (svědky jsou ale Klomínek a Žehušický)
+
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Klomínek -> Žehušický
+
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+
+
+
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+
+
+Svobodovský -> K. + Ž.
+Klomínek -> Svobodovský
+Svobodovský -> K. + Ž.
+Klomínek -> Svobodovský
+Svobodovský -> K. + Ž.
+Žehušický -> Svobodovský
+Žehušický -> Svobodovský
+Svobodovský -> K. + Ž.
+Klomínek -> Svobodovský
+Žehušický -> Svobodovský
+Svobodovský -> Žehušický
+Žehušický -> Svobodovský
+Svobodovský -> Žehušický
+Žehušický -> Svobodovský
+Klomínek -> Žehušický
+Svobodovský -> Žehušický
+Žehušický -> S. + K.
+
+Žehušický -> S. + K.
+Klomínek -> Žehušický
+Žehušický -> Klomínek
+Klomínek -> Žehušický
+
+Žehušický -> Svobodovský
+Svobodovský -> Žehušický
+Žehušický -> Svobodovský
+
+
+Lampasíček -> všichni
+Žehušický -> Lampasíček
+Lampasíček -> všichni
+Žehušický -> Lampasíček
+
+
+Svobodovský -> K. + Ž.
+Klomínek -> Svobodovský
+Svobodovský -> K. + Ž.
+Klomínek -> Svobodovský
+
+
+
+Lampasíček -> všichni
+Lampasíček -> všichni
+Žehušický -> Lampasíček
+Lampasíček -> Žehušický
+Žehušický -> Lampasíček
+Lampasíček -> Žehušický
+Klomínek -> Lampasíček
+Žehušický -> Lampasíček
+Lampasíček -> Žehušický
+Žehušický -> Svobodovský
+
+Hanička -> všichni
+Hanička -> všichni
+Lampasíček -> Hanička
+Hanička -> Lampasíček
+Hanička -> Lampasíček
+
+
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+
+Lampasíček -> všichni
+Svobodovský -> Lampasíček
+Lampasíček -> Hanička
+Svobodovský -> Lampasíček
+Lampasíček -> Hanička
+Svobodovský -> Lampasíček
+Lampasíček -> Hanička
+Svobodovský -> Lampasíček
+Lampasíček -> Hanička
+
+Lampasíček -> všichni
+Svobodovský -> Lampasíček
+Lampasíček -> všichni
+Svobodovský -> Lampasíček
+Lampasíček -> všichni
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Hanička-> Svobodovský
+Svobodovský -> Hanička
+Hanička-> Svobodovský
+Svobodovský -> Hanička
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Svobodovský -> Lampasíček
+Lampasíček -> Svobodovský
+Klomínek -> Svobodovský
+
+
+
+Hanička -> Máňa
+dítě -> Hanička
+Hanička-> dítě
+dítě -> Hanička
+Hanička-> dítě
+
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Máňa -> Hanička
+Hanička -> Máňa
+Hanička-> dítě
+dítě -> Hanička
+Hanička-> dítě
+dítě -> Hanička
+Hanička-> dítě
+dítě -> Hanička
+
+Hanička-> dítě
+dítě -> Hanička
+
+
+
+
+Hanička -> Katuška
+Katuška -> Hanička
+Hanička -> Katuška
+Katuška -> Hanička
+Hanička -> Katuška
+Katuška -> Hanička
+Hanička -> Katuška
+Katuška -> Hanička
+Hanička -> Katuška
+Katuška -> Hanička
+Hanička -> Katuška
+
+
+Hanička -> muž ve tmě
+Hanička -> Katuška
+Hanička -> Katuška
+
+
+Hanička -> Karel (Havrda)
+
+Karel -> Hanička
+Karel -> Hanička
+
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+
+Hanička -> Karel
+Hanička -> Karel
+Hanička -> Karel
+
+
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+
+
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+
+
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+
+Hanička -> Katuška
+Katuška -> Hanička
+Hanička -> Katuška
+Katuška -> Hanička
+Hanička -> Katuška
+Katuška -> Hanička
+Katuška -> Hanička
+Hanička -> Katuška
+Katuška -> Hanička
+
+
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+Karel -> Hanička
+Hanička -> Karel
+
+
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+
+Svobodovský -> Karel
+Svobodovský -> Karel
+Hanička -> Svobodovský
+
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Svobodovský -> Hanička
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+
+Hanička -> Svobodovský
+Hanička -> Svobodovský
+
+
+Lampasíček -> Ž. + K.
+Lampasíček -> Ž. + K.
+Lampasíček -> Karel
+Karel -> Lampasíček
+
+Lampasíček -> Karel
+Karel -> Lampasíček
+
+
+
+
+Svobodovský -> Karel
+Karel -> Svobodovský
+Svobodovský -> Karel
+Karel -> Svobodovský
+
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Svobodovský -> Hanička
+Hanička -> Svobodovský
+Svobodovský -> Hanička
+Karel -> Hanička
+dítě -> Hanička
+
+
